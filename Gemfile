@@ -10,3 +10,5 @@ gem "jekyll-seo-tag"
 gem "jemoji"
 gem "jekyll-include-cache"
 gem "jekyll-data"
+
+gem "tzinfo-data"
