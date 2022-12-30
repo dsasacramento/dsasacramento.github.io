@@ -4,7 +4,8 @@ title: "Blog"
 permalink: /blog/
 ---
 
-Recent statements and articles by DSA Chapter.
+<h2>News and Updates</h2>
+<a href="https://sacdsa.org/blog/" target ="_blank" rel="noreferrer noopener">Reference website</a>
 
 <div class="row my-5">
   {% for post in site.posts %}

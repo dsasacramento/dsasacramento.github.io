@@ -1,14 +1,27 @@
 # header links
 header:
-  - title: "Statements"
-    url: "/blog/"
-    description: "Link to DSA Chapter's Chapter Statements"
-  - title: "Get Involved"
-    url: "/get-involved/"
-    description: "Check out what DSA Chapter is working on. Join DSA!"
-  - title: "Events Calendar"
+  - title: "About"
+    url: "/about/"
+    description: "Link to DSA Chapter's self description"
+  - title: "Events"
     url: "/calendar/"
     description: "Chapter Events Calendar"
+  - title: "Blog"
+    url: "/blog/"
+    description: "Link to DSA Chapter's Chapter statements"
+  - title: "Resources"
+    url: "/resources/"
+    description: "Link to DSA Chapter's Chapter Statements"
+  - title: "Donate"
+    url: "/donate/"
+    description: "Link to DSA Chapter's Chapter Statements"
+  - title: "Join"
+    url: "/get-involved/"
+    description: "Check out what DSA Chapter is working on. Join DSA!"
+  - title: "Contact"
+    url: "/contact/"
+    description: "Contact information for chapter"
+
 
 # footer links
 footer:
