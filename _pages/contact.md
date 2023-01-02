@@ -6,13 +6,14 @@ permalink: /contact/
 
 <a href="https://sacdsa.org/contact/" target ="_blank" rel="noreferrer noopener">Reference website</a>
 
-<h2>Contact</h2>
 Got a question?
 
-<h3>Contact Sacramento DSA</h3>
+<h4>Contact Sacramento DSA</h4>
 
 Reach out to us in the following ways
-    - here enter socials
+  - [Email]({{site.data.social.email.url}})
+  - [Facebook]({{site.data.social.facebook.url}})
+  - [Twitter]({{site.data.social.twitter.url}})
+  - [Instagram]({{site.data.social.instagram.url}})
 
-Filler text for contact
-**Learn more and get involved [here](../get-involved/).**
+For press inquiries, please contact [our press email]({{site.data.social.pressEmail.url}}).
