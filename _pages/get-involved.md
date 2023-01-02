@@ -1,17 +1,19 @@
 ---
 layout: page
-title: "Get Involved"
+title: "Join Sacramento DSA!"
 permalink: /get-involved/
 ---
 
 <a href="https://sacdsa.org/joinDSA/" target ="_blank" rel="noreferrer noopener">Reference website</a>
 
-<h2>Join DSA!</h2>
+#### **Just Curious? Attend an event**
 
-The [Democratic Socialists of America](https://www.dsausa.org/) is the largest socialist organization in the United States because we’re a member-driven mass organization. We are a political and activist organization, not a party. We believe that working people should run both the economy and civil society, and we show our commitment to this principle by being an organization of, by, and for the working class.
+Want to learn more about Sacramento DSA? Attend one of our many events in the area to find out how you can get involved in improving the lives of working people.
 
-[Join DSA](https://www.dsausa.org/join) today!
+<a href="/calendar" class="btn-secondary">Find an Event</a>
 
-<h2>Events</h2>
+#### **Become an offical member**
 
-Check out our complete [event calendar](../calendar) for all confirmed virtual and in-person events.
+If you want to vote at meetings, you'll need to officially join National DSA on their website and pay dues. All dues-paying members of National DSA living in the Sacramento are automatically members of Sacramento DSA.
+
+<a href="https://act.dsausa.org/donate/membership2020/" class="btn-secondary">Join Natinonal DSA</a>
