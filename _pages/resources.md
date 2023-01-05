@@ -3,8 +3,6 @@ layout: page
 title: "Resources"
 permalink: /resources/
 ---
-<a href="https://sacdsa.org/resources/" target ="_blank" rel="noreferrer noopener">Reference website</a>
-
 #### New Member Handbook
 
 New to Sacramento DSA? Learn about who we are, how we work, and how to plug in.
@@ -44,5 +42,4 @@ Find local California Democratic Socialists of America and Young Democratic Soci
 [California DSA and YDSA chapters](/resources/chapters)
 
 [Harassment and Grievance Policy and Resources](/resources/harassment-and-grievance-policy-and-resources)
-
 Learn about the resources and policies we have in place to ensure our chapter is welcoming and inclusive to members of all genders, races, classes, and abilities.

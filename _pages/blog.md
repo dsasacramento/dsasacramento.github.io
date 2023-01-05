@@ -3,7 +3,6 @@ layout: page
 title: "Blog"
 permalink: /blog/
 ---
-
 <h2>News and Updates</h2>
 <a href="https://sacdsa.org/blog/" target ="_blank" rel="noreferrer noopener">Reference website</a>
 
