@@ -1,0 +1,156 @@
+dsa:
+  - chico:
+    label: Chico DSA
+    phone: ~
+    email: contact@chicodsa.org
+    website: https://www.chicodsa.org/
+    facebook: https://www.facebook.com/dsachico/
+    twitter: https://twitter.com/dsachico
+  - east-bay: 
+    label: East Bay DSA
+    phone: ~
+    email: info@eastbaydsa.org
+    website: http://www.eastbaydsa.org/
+    facebook: https://www.facebook.com/eastbaydsa/
+    twitter: https://twitter.com/dsaeastbay
+  - fresno:
+    label: Fresno DSA Organizing Committee
+    phone: 508-353-7252
+    email: fresnodsa@gmail.com
+    website: ~
+    facebook: https://www.facebook.com/FresnoDSA
+    twitter: https://twitter.com/dsa_fresno
+  - inland-Empire:
+    label: Inland Empire DSA Organizing Committee
+    phone: 909-262-2880
+    email: ~
+    website: ~
+    facebook: https://www.facebook.com/InlandEmpireDSA
+    twitter: ~
+  - long-beach:
+    label: Long Beach DSA
+    phone: 804-372-5299
+    email: dsalongbeach@gmail.com
+    website: ~
+    facebook: https://www.facebook.com/DSALongBeach/
+    twitter: https://twitter.com/DSALongBeach
+  - los-angeles-county:
+    label: Los Angeles County DSA
+    phone: ~
+    email: democraticsocialistsla@gmail.com
+    website: http://www.dsa-la.org/
+    facebook: https://www.facebook.com/DSALosAngeles/
+    twitter: https://twitter.com/DSA_LosAngeles
+  - north-bay:
+    label: North Bay DSA Organizing Committee
+    phone: 707-335-9539
+    email: dsanorthbay@gmail.com
+    website: ~
+    facebook: https://www.facebook.com/dsanorthbay/
+    twitter: https://twitter.com/dsanorthbay
+  - orange-county:
+    label: Orange County DSA
+    phone: ~
+    email: contact@ocdsa.org
+    website: http://www.ocdsa.org/
+    facebook: http://facebook.com/dsaorangecounty
+    twitter: https://twitter.com/DSAOrangeCounty
+  - peninsula:
+    label: Peninsula DSA Organizing Committee
+    phone: 650-918-6372
+    email: peninsuladsa@gmail.com
+    website: ~
+    facebook: ~
+    twitter: https://twitter.com/DSA_Peninsula
+  - pomona-valley:
+    label: Pomona Valley DSA Organizing Committee
+    phone: 909-632-4898
+    email: dsapomonavalley@gmail.com
+    website: ~
+    facebook: ~
+    twitter: ~
+  - san-diego:
+    label: San Diego DSA
+    phone: 692-875-5535
+    email: dsasandiego@cox.net
+    website: http://sandiegodsa.org/
+    facebook: https://www.facebook.com/Democratic-Socialists-of-America-San-Diego-1758693124451610/
+    twitter: ~
+  - san-francisco:
+    label: San Francisco DSA
+    phone: ~
+    email: dsa.san.francisco@gmail.com
+    website: https://dsasf.org/
+    facebook: https://www.facebook.com/dsasanfrancisco/
+    twitter: https://twitter.com/DSA_SF
+  - santa-cruz:
+    label: Santa Cruz DSA
+    phone: ~
+    email: dsasantacruz@protonmail.com
+    website: http://www.dsasantacruz.org/
+    facebook: https://www.facebook.com/DSASantaCruz/
+    twitter: https://twitter.com/DSASantaCruz
+  - santa-barbara:
+    label: Santa Barbara DSA Organizing Committee
+    phone: 805-881-3081
+    email: dsasantabarbara@gmail.com
+    website: ~
+    facebook: https://www.facebook.com/sbdsa
+    twitter: https://www.twitter.com/sb_dsa
+  - south-san-francisco-bay:
+    label: South San Francisco Bay Region DSA
+    phone: ~
+    email: info@southbaydsa.org
+    website: ~
+    facebook: https://www.facebook.com/SouthBayDSA/
+    twitter: https://twitter.com/SouthBay_DSA
+  - silicon-valley:
+    label: Silicon Valley Branch
+    phone: ~
+    email: svdemsoc@gmail.com
+    website: https://svdsa.github.io/
+    facebook: https://www.facebook.com/svdsa/
+    twitter: https://twitter.com/SV_DSA
+  - ventura-county:
+    label: Ventura County DSA
+    phone: ~
+    email: venturacountydsa@gmail.com
+    website: ~
+    facebook: ~
+    twitter: ~
+ydsa:
+  - csu-channel-islands:
+    label: California State University, Channel Islands YDSA
+    phone: ~
+    email: ~
+    website: ~
+    facebook: ~
+    twitter: https://twitter.com/YDSofCSUCI
+  - los-alamitos-high-school:
+    label: Los Alamitos High School YDSA
+    phone: ~
+    email: ydslosal@gmail.com
+    website: ~
+    facebook: ~
+    twitter: https://twitter.com/ydslosal
+  - uc-davis:
+    label: University of California, Davis YDSA
+    phone: ~
+    email: ~
+    website: ~
+    facebook: https://www.facebook.com/davisdemocraticsocialists
+    twitter: ~
+  - uc-santa-barbara:
+    label: University of California, Santa Barbara YDSA
+    phone: ~
+    email: ~
+    website: ~
+    facebook: https://www.facebook.com/Young-Democratic-Socialists-of-Santa-Barbara-665748390269247/
+    twitter: ~
+  - usc-los-angeles:
+    label: University of Southern California, Los Angeles YDSA
+    phone: ~
+    email: ~
+    website: ~
+    facebook: https://www.facebook.com/YDSUSC/
+    twitter: https://twitter.com/ydsusc
