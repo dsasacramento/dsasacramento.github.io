@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Proposition 22 &amp; its DISCONTENTS"
-author: by Ian Lee
 permalink: /blog/2020/10/06/prop22-discontents/
 ---
 
-**A spectre is haunting the working class -- the spectre of Proposition 22.**
+by Ian Lee
+
+**A spectre is haunting the working class -- the spectre of Proposition 22.** All the powers of the center-Left and Left have entered into a holy alliance to exorcise this spectre: the Service Employees International Union, the Democratic Socialists of America, and even much of the Democratic Party (including Joe Biden), etc.
 
 We have a real shot at defeating Proposition 22. But it is by no means certain. The most recent poll I'm aware of, coming out of UC Berkeley and reported in the LA times, showed that 39% of likely voters will side with the Gig Companies (Yes on 22), 36% will side with the actual drivers (No on 22), and 25% are still undecided -- with a 2% margin of error. So we can win -- and live to fight another day, building a movement of hundreds of thousands of drivers to form the largest, most consequential Labor Union in California history. Or we can lose -- and set workers' rights back by decades. But it will be up to us and the conversations we have with one another. As the poll showed, the drivers are neck and neck with the gig companies, and so indeed, every conversation about Proposition 22 is going to matter to decide the fate of the development of neoliberal capitalism.
 

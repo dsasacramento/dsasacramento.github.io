@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "A People of Color’s History of DSA, Part 2: DSA Enters the 80s"
-author:  David Roddy and Alyssa De La Rosa 
 permalink: /blog/2019/09/11/a-people-of-color-s-history-of-dsa-part-2-dsa-enters-the-80s/
 ---
+
+**By David Roddy and Alyssa De La Rosa**
 
 [(You can find part one in this series here.)](/blog/2019/08/13/a-people-of-color-s-history-of-dsa-part-1-socialism-race-and-the-formation-of-dsa/)
 

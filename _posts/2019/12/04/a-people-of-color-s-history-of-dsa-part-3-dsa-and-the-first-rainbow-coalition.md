@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "A People of Color's History of DSA, Part 3: DSA and The First Rainbow Coalition"
-author:  David Roddy and Alyssa De La Rosa
 permalink: /blog/2019/12/04/a-people-of-color-s-history-of-dsa-part-3-dsa-and-the-first-rainbow-coalition/
 ---
+
+**By David Roddy and Alyssa De La Rosa**
 
 [A People of Color's History of DSA, Part 1](/blog/2019/08/13/a-people-of-color-s-history-of-dsa-part-1-socialism-race-and-the-formation-of-dsa/)
 

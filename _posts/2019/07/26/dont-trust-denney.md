@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Op Ed: Don’t Trust Audrey Denney On Climate Issues"
-author:  Anthony Haddad
 permalink: /blog/2019/07/26/dont-trust-denney/
 ---
+
+By Anthony Haddad
 
 **There is a base64 image here that I don't support yet**.
 

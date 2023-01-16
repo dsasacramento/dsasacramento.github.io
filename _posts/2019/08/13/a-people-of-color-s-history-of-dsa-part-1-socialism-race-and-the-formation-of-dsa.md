@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "A People of Color’s History of DSA, Part 1: Socialism, Race, and the Formation of DSA"
-author:  David Roddy and Alyssa De La Rosa 
 permalink: /blog/2019/08/13/a-people-of-color-s-history-of-dsa-part-1-socialism-race-and-the-formation-of-dsa/
 ---
+
+**By David Roddy and Alyssa De La Rosa**
 
 ![](/assets/images/mcxuOnA3hGquZ5_fcQfXcLLlGyNMSDw0MO8Ilsb6SbsruLa3axaqV5LCWv1v-3nkg1yhUWJtSjjFow9U7BTPRC7M5WqeeCs-v4AaWRZ8fE_qNyCp2t2noJwqysxDbOAbbvOHdqsE.png){: .img-fluid }
 
@@ -43,7 +44,7 @@ While both agreed that ending the oppression of Blacks would involve a transform
 
 In These Times covered the debate over the merger between DSOC and NAM extensively.
 
-[In 1977](http://www.unz.com/print/InTheseTimes-1977mar30-00018:18/?Text=)
+[In 1977](http://www.unz.com/print/InTheseTimes-1977mar30-00018:18/?Text=), NAM National Secretary Roberta Lynch criticized DSOC’s approach to foreign policy, arguing that “DSOC comes out of a tradition of socialist anti-communism. It is an international tradition that has tended to be fearful of revolutionary upheaval, to identify the advanced welfare state with socialism, and to tolerate the global ravage of American imperialism.” In particular, she was concerned with DSOC’s alignment with the Socialist International (SI), which she noted “includes the ruling parties of Israel, Portugal, and West Germany...there can be little doubt that any socialist movement that develops in the major imperial power in the world must have an understanding of and opposition to American imperialism as a key aspect of its politics. The demonstrated leanings of DSOC on such questions as Portugal and Israel raise real doubts about how it would approach international issues if it does grow to be a major force.”
 
 Opposing DSOC merging with NAM was In These Times foreign editor John Judis, who had previously left NAM over what he viewed as overly revolutionary [rhetoric](https://newrepublic.com/article/144492/socialism-america-needs-now) . In 1979, John Judis [criticized](http://www.unz.com/print/InTheseTimes-1979aug22-00002/) that year’s NAM convention as delegates discussed an offer to merge with DSOC. Judis found NAM to be mired in the sectarianism of the New Left, obsessed with opposing reformism, and holding onto revolutionary purity in the face of a growing disillusionment with radical politics in the United States left -- a view maintained by much of DSOC’s more conservative members.
 
@@ -57,7 +58,7 @@ NAM’s disapproval of DSOC’s membership in the Socialist International -- bas
 
 **The Merger**
 
-![](/assets/images/cz5DEATBgF68Ao3jMNxbDRkZ35sqCQ18lIaLHFl2P6_C37rZJaLV8Te4oJuFoX90GLPbfRHWZGX9oAXzqKIEpHnEG_RViLYXkHSa4wv3CBhegXrWrDDIsdKF1QkGUMVWQcxqU0F6.png){: .img-fluid }
+![](/assets/images/cz5DEATBgF68Ao3jMNxbDRkZ35sqCQ18lIaLHFl2P6_C37rZJaLV8Te4oJuFoX90GLPbfRHWZGX9oAXzqKIEpHnEG_RViLYXkHSa4wv3CBhegXrWrDDIsdKF1QkGUMVWQcxqU0F6.png){: .img-fluid } ![](/assets/images/P0_GmawSCybe0bcEZuCWp6CdBXAHXvImVji6a5IiGbW0s9ltozUkw4x0UmpVltE2g-zKDGn0-h8CWTnYlQu5tEtfqbCpXRBpul3bRkLP_khsjcL-cnXWDsbcxmo2nFSVPj71knTZ.png){: .img-fluid }
 
 DSOC’s failure at realigning the Democratic Party, Brandt and Manley’s success at reforming the SI, and NAM’s drift away from explicitly revolutionary politics at the dawn of the Reagan era all contributed to the merger and the formation of DSA in 1982. A unity convention was held in Detroit, featuring a keynote address by Michael Harrington as well as speeches by Coalition of Black Trade Unionists leader William Lucy and George Crockett of the Congressional Black Caucus.
 

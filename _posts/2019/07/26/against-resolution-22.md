@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Op Ed: Against Resolution 22"
-author:  James J Jackson, Jr.
 permalink: /blog/2019/07/26/against-resolution-22/
 ---
+
+By James J Jackson, Jr.
 
 First let me open with a disclaimer, this is not the opinion of our entire delegation.  This is my take as both an individual member of DSA and as one individual delegate to the 2019 convention.
 

@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Will California Support Unions?"
-author:  C.R. Mills
 permalink: /blog/2019/05/11/will_california_support_unions/
 ---
+
+By C.R. Mills
 
 Nearly every major politician in California recognizes the right of residents to organize in the workplace. From Gavin Newsom to Diane Feinstein, Jerry Brown to Nancy Pelosi, the path to power in our state runs through labor. Union members knock on doors and heavily fund campaigns for Democratic politicians to get elected; even centrist members of the party, while sometimes voting against the interests of unions, would never argue that workers shouldn’t have the right to organize. These same politicians now face a crucial decision: does their belief in the right of people to organize in the workplace extend to people’s right to organize in their homes as well?
 

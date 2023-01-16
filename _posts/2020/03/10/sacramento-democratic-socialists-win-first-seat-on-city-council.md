@@ -1,13 +1,14 @@
 ---
 layout: page
 title: "Sacramento Democratic Socialists Win First Seat on City Council"
-author: For Immediate Release
 permalink: /blog/2020/03/10/sacramento-democratic-socialists-win-first-seat-on-city-council/
 ---
 
+**For Immediate Release**
+
 March 10, 2020
 
-Contact: [admin@sacdsa.org](mailto:admin@sacdsa.org)
+Contact: [admin@sacdsa.org](https://mailto:admin@sacdsa.org/)
 
 Sacramento, CA — The Sacramento Chapter of the Democratic Socialists of America (DSA) won a seat on the city council in a hotly contested race, with results still trickling in from the March 3rd election. Sacramento DSA’s endorsed candidate and member, Katie Valenzuela, unseated the incumbent, becoming the first democratic socialist city council member elected in Sacramento.
 

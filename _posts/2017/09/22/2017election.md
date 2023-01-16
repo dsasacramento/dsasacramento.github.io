@@ -1,0 +1,67 @@
+---
+layout: page
+title: "2017 DSA Sac Election Info &amp; Results - Democratic Socialists of America, Sacramento"
+permalink: /blog/2017/09/22/2017election/
+---
+
+On Sunday, September 17th, DSA Sacramento held elections for it’s 2017-2018 Executive Board.
+
+
+
+![](2017election1.jpg){: .img-fluid }  ![](2017election2.jpg){: .img-fluid }
+
+
+
+
+
+A total of 46 members came from all over the region to cast their ballots (with 3 members abstaining). This was the highest level of participation in an election in this organization's history. Some members even drove over 45 miles to attend this meeting! We can’t thank our members enough for their enthusiasm and dedication to Sac DSA. **Election results are as follows:**
+
+
+
+**Co-Chairs** Alyssa De La Rosa Jonah Paul
+
+
+
+**Secretary** Annabel Vera
+
+
+
+**Treasurer** Kevin Riley
+
+
+
+**Organizers** Miguel Aceves David Roddy Andee Sunderland
+
+
+
+
+
+**SUMMARY OF OUR ELECTION PROCEDURE**
+
+
+
+Candidate nominations were accepted via an online form starting on August 25th, and closing on September 13th. Nomination forms included the following questions: 1) How have your background and skills prepared you for the position, 2) Tell us about your political philosophy as it pertains to DSA, and 3) Please add a free-form candidate statement. As soon as a nomination form was completed and submitted, the information was then published on a temporary website, which voters were instructed to review before the election: [https://www.sacdsavote.xyz/](https://www.sacdsavote.xyz/) (scheduled to go offline 9/29/17).
+
+
+
+When election day came, voters were given numbered ballots. This way, individual voters could keep track of their own ballot number, but ballots remained anonymous to everyone else. Completed ballots were collected and counted by members of the Elections Working Group.
+
+
+
+ **SPECIAL THANKS TO THE ELECTION WORKING GROUP**
+
+
+
+We’d like to give a special thanks to the Elections Working Group (Austin, Anthony, Rae, and Tyler) for orchestrating a successful and transparent election. Their vision and expertise was an incredible help to DSA Sacramento. We couldn’t have done it without their hard work! If you have any questions for the new Executive Board, or if you have questions about the election, please do not hesitate to email dsasacramento@gmail.com.
+
+
+
+
+
+**In Solidarity,**
+
+
+
+**Sac DSA**
+
+

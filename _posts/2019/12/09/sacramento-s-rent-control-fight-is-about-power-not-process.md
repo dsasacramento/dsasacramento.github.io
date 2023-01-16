@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Sacramento’s Rent Control Fight Is About Power, Not Process"
-author:  C.R. Mills
 permalink: /blog/2019/12/09/sacramento-s-rent-control-fight-is-about-power-not-process/
 ---
+
+By C.R. Mills
 
 Sacramentans may or may not be allowed to vote on a powerful local rent control measure in 2020, depending on a variety of uncertain legal and political outcomes. Two things remain certain at this point, however: City politicians funded by landlords are doing everything in their power to keep rent control off the ballot, and they’re being dishonest about why they’re doing it.
 

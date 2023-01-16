@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "The Time Is Now"
-author:  James J. Jackson, Jr 
 permalink: /blog/2020/09/10/the-time-is-now/
 ---
+
+*By James J. Jackson, Jr*
 
 Comrades, the time is now!
 
