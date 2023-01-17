@@ -19,7 +19,7 @@ DSA Sacramento is proud to join DSA National and 10 other local DSA chapters thr
 
 Phillip Kim is knowledgeable, experienced, and a candidate for the working class.  He worked closely and fought vigorously with his union at Thunder Valley Casino for seven years. Later he was an active member of the Bernie Sanders campaign. As an organizer for the California Nurses Association he has been on the front lines fighting for universal healthcare.  He has been a vocal critic of corporate democrats such as Anthony Rendon who is responsible for shelving S.B. 562. Phillip Kim also chairs the Healthcare Committee for Sacramento DSA. Phillip Kim is pro labor, supports Medicare for all, and is an active DSA member. This is why Sacramento DSA has endorsed Phillip Kim for California State Senator of District 4.
 
-[<span style="font-weight: 400;">Visit Phil Kim's Campaign Page</span>](https://www.facebook.com/PhilTheBern/)
+[Visit Phil Kim's Campaign Page](https://www.facebook.com/PhilTheBern/)
 
 # Rachelanne Vander Werf
 
@@ -29,7 +29,7 @@ From an idealistic standpoint, Rae consistently demonstrates her commitment to a
 
 Rae has proven herself to be a loyal adherent to the mantra “people over profit” and DSA Sacramento is confident that she will represent our values in office.
 
-[<span style="font-weight: 400;">View Rachelanne Vander Werf's Platform</span>](https://www.vanderwerf2018.com/)
+[View Rachelanne Vander Werf's Platform](https://www.vanderwerf2018.com/)
 
 # Tristan Brown
 

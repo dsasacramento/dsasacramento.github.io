@@ -17,10 +17,10 @@ Fred's book "From Mission to Microchip: A History of the California Labor Moveme
 
 We owe a huge thanks to our friends at the
 
-[<span class="_247o"><span>Sacramento Central Labor Council</span></span>](https://www.sacramentolabor.org/)
+[Sacramento Central Labor Council](https://www.sacramentolabor.org/)
 
 for co-hosting the event and opening your doors to us, [videographer](https://mattmaxwellvideo.com/)
 
-[<span class="_247o"><span>Matt Maxwell</span></span>](https://mattmaxwellvideo.com/)
+[Matt Maxwell](https://mattmaxwellvideo.com/)
 
 for donating the time and labor to produce such an excellent video, and of course to Fred Glass for sharing his research and wisdom.

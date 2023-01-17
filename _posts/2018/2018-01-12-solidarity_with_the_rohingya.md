@@ -21,14 +21,14 @@ In conclusion, Sacramento DSA should acknowledge the treatment of the Rohingya h
 
 Sources Cited:
 
-[<span style="font-weight: 400;">http://www.presstv.com/Detail/2017/10/22/539540/Myanmar-Bangladesh-Rohingya-UN</span>](http://www.presstv.com/Detail/2017/10/22/539540/Myanmar-Bangladesh-Rohingya-UN)
+[http://www.presstv.com/Detail/2017/10/22/539540/Myanmar-Bangladesh-Rohingya-UN](http://www.presstv.com/Detail/2017/10/22/539540/Myanmar-Bangladesh-Rohingya-UN)
 
-[<span style="font-weight: 400;">https://www.globalcitizen.org/en/content/recognizing-the-rohingya-and-their-horrifying-pers/</span>](https://www.globalcitizen.org/en/content/recognizing-the-rohingya-and-their-horrifying-pers/)
+[https://www.globalcitizen.org/en/content/recognizing-the-rohingya-and-their-horrifying-pers/](https://www.globalcitizen.org/en/content/recognizing-the-rohingya-and-their-horrifying-pers/)
 
-[<span style="font-weight: 400;">https://jacobinmag.com/2017/12/myanmar-rohingya-ethnic-cleansing-aung-san-suu-kyi</span>](https://jacobinmag.com/2017/12/myanmar-rohingya-ethnic-cleansing-aung-san-suu-kyi)
+[https://jacobinmag.com/2017/12/myanmar-rohingya-ethnic-cleansing-aung-san-suu-kyi](https://jacobinmag.com/2017/12/myanmar-rohingya-ethnic-cleansing-aung-san-suu-kyi)
 
-[<span style="font-weight: 400;">https://www.hrw.org/reports/2000/burma/burm005-02.htm#P132_34464</span>](https://www.hrw.org/reports/2000/burma/burm005-02.htm#P132_34464)
+[https://www.hrw.org/reports/2000/burma/burm005-02.htm#P132_34464](https://www.hrw.org/reports/2000/burma/burm005-02.htm#P132_34464)
 
-[<span style="font-weight: 400;">http://www.ibtimes.co.uk/new-wave-destruction-sees-1250-houses-destroyed-myanmars-rohingya-villages-1592582</span>](http://www.ibtimes.co.uk/new-wave-destruction-sees-1250-houses-destroyed-myanmars-rohingya-villages-1592582)
+[http://www.ibtimes.co.uk/new-wave-destruction-sees-1250-houses-destroyed-myanmars-rohingya-villages-1592582](http://www.ibtimes.co.uk/new-wave-destruction-sees-1250-houses-destroyed-myanmars-rohingya-villages-1592582)
 
-[<span style="font-weight: 400;">http://www.aljazeera.com/news/2017/12/rape-rohingya-women-sweeping-methodical-ap-171211063236832.html</span>](http://www.aljazeera.com/news/2017/12/rape-rohingya-women-sweeping-methodical-ap-171211063236832.html)
+[http://www.aljazeera.com/news/2017/12/rape-rohingya-women-sweeping-methodical-ap-171211063236832.html](http://www.aljazeera.com/news/2017/12/rape-rohingya-women-sweeping-methodical-ap-171211063236832.html)

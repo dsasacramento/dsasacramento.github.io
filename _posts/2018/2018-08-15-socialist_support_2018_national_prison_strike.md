@@ -72,37 +72,37 @@ Other than that, the best ways to show solidarity are to be proactive, reach out
 
 **Follow these two blogs of prisoner advocates inside:**
 
-[<span style="font-weight: 400;">https://comrademalik.com/</span>](https://comrademalik.com/)
+[https://comrademalik.com/](https://comrademalik.com/)
 
-[<span style="font-weight: 400;">http://rashidmod.com/</span>](http://rashidmod.com/)
+[http://rashidmod.com/](http://rashidmod.com/)
 
 **Excellent overall source for prison coverage:**
 
-[<span style="font-weight: 400;">http://sfbayview.com/</span>](http://sfbayview.com/)
+[http://sfbayview.com/](http://sfbayview.com/)
 
 **Long-form story on the tragedy at Lee Correctional:**
 
-[<span style="font-weight: 400;">https://shadowproof.com/2018/05/03/interview-south-carolina-prisoners-challenge-narrative-around-violence-lee-correctional-institution/</span>](https://shadowproof.com/2018/05/03/interview-south-carolina-prisoners-challenge-narrative-around-violence-lee-correctional-institution/)
+[https://shadowproof.com/2018/05/03/interview-south-carolina-prisoners-challenge-narrative-around-violence-lee-correctional-institution/](https://shadowproof.com/2018/05/03/interview-south-carolina-prisoners-challenge-narrative-around-violence-lee-correctional-institution/)
 
 **Regional Groups:**
 
-[<span style="font-weight: 400;">https://fighttoxicprisons.wordpress.com/</span>](https://fighttoxicprisons.wordpress.com/)
+[https://fighttoxicprisons.wordpress.com/](https://fighttoxicprisons.wordpress.com/)
 
-[<span style="font-weight: 400;">http://www.freealabamamovement.com/</span>](http://www.freealabamamovement.com/)
+[http://www.freealabamamovement.com/](http://www.freealabamamovement.com/)
 
 Video: [https://vimeo.com/283756482](https://vimeo.com/283756482)
 
 **Audio Programs:**
 
-[<span style="font-weight: 400;">https://rustbeltradio.org/</span>](https://rustbeltradio.org/)
+[https://rustbeltradio.org/](https://rustbeltradio.org/)
 
-[<span style="font-weight: 400;">https://shadowproof.com/beyond-prisons/</span>](https://shadowproof.com/beyond-prisons/)
+[https://shadowproof.com/beyond-prisons/](https://shadowproof.com/beyond-prisons/)
 
-[<span style="font-weight: 400;">http://wfhb.org/?s=kiteline</span>](http://wfhb.org/?s=kiteline) also found here ([<span style="font-weight: 400;">https://kitelineradio.noblogs.org</span>](https://kitelineradio.noblogs.org/))
+[http://wfhb.org/?s=kiteline](http://wfhb.org/?s=kiteline) also found here ([https://kitelineradio.noblogs.org](https://kitelineradio.noblogs.org/))
 
 **Especially this episode:**
 
-[<span style="font-weight: 400;">https://rustbeltradio.org/2018/08/08/ep20/</span>](https://rustbeltradio.org/2018/08/08/ep20/)
+[https://rustbeltradio.org/2018/08/08/ep20/](https://rustbeltradio.org/2018/08/08/ep20/)
 
 **And this other interview:** [https://itsgoingdown.org/inside-outside-all-on-the-same-side-prisonstrike-round-table/](https://itsgoingdown.org/inside-outside-all-on-the-same-side-prisonstrike-round-table/)
 
@@ -114,22 +114,22 @@ Video: [https://vimeo.com/283756482](https://vimeo.com/283756482)
 
 **Twitter:**
 
-[<span style="font-weight: 400;">@JailLawSpeak</span>](https://twitter.com/JailLawSpeak)
+[@JailLawSpeak](https://twitter.com/JailLawSpeak)
 
-[<span style="font-weight: 400;">@SlaveryPrison</span>](https://slaveryprison/)
+[@SlaveryPrison](https://slaveryprison/)
 
-[<span style="font-weight: 400;">@blkintellectual</span>](https://twitter.com/blkintellectual)
+[@blkintellectual](https://twitter.com/blkintellectual)
 
-[<span style="font-weight: 400;">@PrisonCulture</span>](https://twitter.com/PrisonCulture)
+[@PrisonCulture](https://twitter.com/PrisonCulture)
 
-[<span style="font-weight: 400;">@FightXPrisons</span>](https://twitter.com/FightXPrisons)
+[@FightXPrisons](https://twitter.com/FightXPrisons)
 
-[<span style="font-weight: 400;">@sfbayview</span>](https://twitter.com/sfbayview)
+[@sfbayview](https://twitter.com/sfbayview)
 
-[<span style="font-weight: 400;">@IWW_IWOC</span>](https://twitter.com/IWW_IWOC)
+[@IWW_IWOC](https://twitter.com/IWW_IWOC)
 
-[<span style="font-weight: 400;">@CentralOhioIWOC</span>](https://twitter.comcentralohioiwoc/)
+[@CentralOhioIWOC](https://twitter.comcentralohioiwoc/)
 
-[<span style="font-weight: 400;">@iwoc_oakland</span>](https://twitter.com/iwoc_oakland)
+[@iwoc_oakland](https://twitter.com/iwoc_oakland)
 
-[<span style="font-weight: 400;">@jaybeware</span>](https://twitter.com/jaybeware)
+[@jaybeware](https://twitter.com/jaybeware)

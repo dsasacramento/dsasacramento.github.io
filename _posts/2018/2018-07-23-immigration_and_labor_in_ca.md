@@ -69,13 +69,13 @@ The relationship between labor and immigration is not a clear cut one under Marx
 
 Sources Cited
 
-1. [<span style="font-weight: 400;">https://monthlyreview.org/2017/02/01/marx-on-immigration/</span>](https://monthlyreview.org/2017/02/01/marx-on-immigration/)
-2. [<span style="font-weight: 400;">https://www.marxists.org/archive/marx/works/1870/letters/70_04_09.htm</span>](https://www.marxists.org/archive/marx/works/1870/letters/70_04_09.htm)
-3. [<span style="font-weight: 400;">http://calindianhistory.org/involuntary-servitude-apprenticeship-slavery-native-americans-california/</span>](http://calindianhistory.org/involuntary-servitude-apprenticeship-slavery-native-americans-california/)
+1. [https://monthlyreview.org/2017/02/01/marx-on-immigration/](https://monthlyreview.org/2017/02/01/marx-on-immigration/)
+2. [https://www.marxists.org/archive/marx/works/1870/letters/70_04_09.htm](https://www.marxists.org/archive/marx/works/1870/letters/70_04_09.htm)
+3. [http://calindianhistory.org/involuntary-servitude-apprenticeship-slavery-native-americans-california/](http://calindianhistory.org/involuntary-servitude-apprenticeship-slavery-native-americans-california/)
 4. Harrington, Michael The Other America: Poverty in the United States.
 5. Shaw, Randy. Beyond the Fields: Cesar Chavez, the UFW, and the Struggle for Justice in the 21st Century. Berkeley: University of California Press, 2008. Print.
-6. [<span style="font-weight: 400;">https://ww2.kqed.org/bayareabites/2017/07/13/chinese-laborers-built-sonomas-wineries-racist-neighbors-drove-them-out/</span>](https://ww2.kqed.org/bayareabites/2017/07/13/chinese-laborers-built-sonomas-wineries-racist-neighbors-drove-them-out/)
-7. [<span style="font-weight: 400;">http://immigrants.harpweek.com/ChineseAmericans/2KeyIssues/DenisKearneyCalifAnti.htm</span>](http://immigrants.harpweek.com/ChineseAmericans/2KeyIssues/DenisKearneyCalifAnti.htm)
-8. [<span style="font-weight: 400;">http://bancroft.berkeley.edu/collections/chineseinca/antichinese.html</span>](http://bancroft.berkeley.edu/collections/chineseinca/antichinese.html)
-9. [<span style="font-weight: 400;">http://ufw.org/research/history/story-cesar-chavez/</span>](http://ufw.org/research/history/story-cesar-chavez/)
-10. [<span style="font-weight: 400;">http://braceroarchive.org/archive/filesdanielmartinezthesis_d24a05a438.pdf</span>](http://braceroarchive.org/archive/filesdanielmartinezthesis_d24a05a438.pdf)
+6. [https://ww2.kqed.org/bayareabites/2017/07/13/chinese-laborers-built-sonomas-wineries-racist-neighbors-drove-them-out/](https://ww2.kqed.org/bayareabites/2017/07/13/chinese-laborers-built-sonomas-wineries-racist-neighbors-drove-them-out/)
+7. [http://immigrants.harpweek.com/ChineseAmericans/2KeyIssues/DenisKearneyCalifAnti.htm](http://immigrants.harpweek.com/ChineseAmericans/2KeyIssues/DenisKearneyCalifAnti.htm)
+8. [http://bancroft.berkeley.edu/collections/chineseinca/antichinese.html](http://bancroft.berkeley.edu/collections/chineseinca/antichinese.html)
+9. [http://ufw.org/research/history/story-cesar-chavez/](http://ufw.org/research/history/story-cesar-chavez/)
+10. [http://braceroarchive.org/archive/filesdanielmartinezthesis_d24a05a438.pdf](http://braceroarchive.org/archive/filesdanielmartinezthesis_d24a05a438.pdf)
