@@ -65,4 +65,4 @@ Having witnessed the life-changing impacts of rent control herself, the choice f
 
 ---
 
-To get involved in the fight for rent control, join [Sacramento DSA's housing committee](/housing) . To learn more about the statewide effort for rent control, check out the [Rent Control Toolkit produced by Tenants Together](http://tenantstogether.org/rent-control-toolkit) .
+To get involved in the fight for rent control, join [Sacramento DSA's housing committee](/housing). To learn more about the statewide effort for rent control, check out the [Rent Control Toolkit produced by Tenants Together](http://tenantstogether.org/rent-control-toolkit) .

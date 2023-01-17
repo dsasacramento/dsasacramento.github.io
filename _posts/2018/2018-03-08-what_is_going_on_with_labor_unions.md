@@ -9,10 +9,10 @@ On February 26th, the dreaded Janus vs. AFSCME case was argued before the US Sup
 
 [<span style="font-weight: 400;">The case</span>](https://www.npr.org/2018/02/01/582539884/supreme-court-could-bleed-unions-dry) was initiated by plaintiff Mark Janus, a public employee in Illinois, who sued his union AFSCME, arguing that mandatory union fees infringe upon his constitutional rights to free speech and free association and that he should not be forced to pay them. AFSCME argued that all employees benefit from the job protections won through union bargaining, so [<span style="font-weight: 400;">fair-share union fees</span>](https://www.epi.org/publication/janus-and-fair-share-fees-the-organizations-financing-the-attack-on-unions-ability-to-represent-workers/) are reasonable and anything less would give workers who choose not to pay dues a free ride and erode the union’s overall ability to function.
 
-![](/assets/images/sacramentodsa_pages_220_attachments_original_1520558418_H1_West-Virginia-teacher-strike-win.jpg){: .img-fluid }
+![](/assets/images/sacramentodsa_pages_220_attachments_original_1520558418_H1_West-Virginia-teacher-strike-win.jpg){: .img-fluid }  
 photo credit: [Democracy Now!](https://www.democracynow.org/2018/3/7/headlines/striking_west_virginia_teachers_win_5_raise_for_all_state_workers)
 
-Several states have already enacted laws which prohibit unions from asking for fair-share fees that ensure all employees pay union dues. These are known as [<span style="font-weight: 400;">“right-to-work” (RTW) laws</span>](http://www.epi.org/publication/right-to-work-michigan-economy/) . One state that has enacted RTW laws is West Virginia.
+Several states have already enacted laws which prohibit unions from asking for fair-share fees that ensure all employees pay union dues. These are known as [<span style="font-weight: 400;">“right-to-work” (RTW) laws</span>](http://www.epi.org/publication/right-to-work-michigan-economy/). One state that has enacted RTW laws is West Virginia.
 
 With weakened public sector unions, a growing trend of business unionism, and statewide austerity measures, West Virginia teachers found themselves living [<span style="font-weight: 400;">paycheck to paycheck</span>](https://www.nytimes.com/2018/03/01/us/west-virginia-teachers-strike.html) with [<span style="font-weight: 400;">questionable benefits</span>](https://jacobinmag.com/2018/02/west-virginia-teachers-strike-activist-interview) and shoddy union representation. When their union failed to negotiate a strong contract against an austerity-minded legislature, West Virginia teachers organized their own wildcat strike. The strike lasted for nine consecutive school days and culminated in a victory when the West Virginia legislature agreed to give teachers a [<span style="font-weight: 400;">5% pay raise</span>](https://www.cnn.com/2018/03/06/us/west-virginia-teachers-strike/index.html) and more.
 
@@ -36,7 +36,7 @@ Extensive analysis and background information is available on the West Virginia 
 
 If you’d like to deepen your labor organizing expertise, consider attending the [<span style="font-weight: 400;">Labor Notes Conference</span>](http://labornotes.org/2018), which is a gathering of grassroots labor activists who come together to discuss workplace organizing tactics and host workshops.
 
-If you’d like to know more about the labor movement in Sacramento, consider attending a meeting with our [<span style="font-weight: 400;">Labor Solidarity Committee</span>](/joinacommittee) . Or attend our [<span style="font-weight: 400;">Beer &amp; Roses Labor Happy Hour</span>](https://www.facebook.com/events/516063148780291/) to get acquainted with local labor activists.
+If you’d like to know more about the labor movement in Sacramento, consider attending a meeting with our [<span style="font-weight: 400;">Labor Solidarity Committee</span>](/joinacommittee). Or attend our [<span style="font-weight: 400;">Beer &amp; Roses Labor Happy Hour</span>](https://www.facebook.com/events/516063148780291/) to get acquainted with local labor activists.
 
 If we want a powerful and victorious labor movement post-Janus, then let’s find inspiration from our brothers and sisters in West Virginia and start organizing amongst ourselves today. The labor movement begins and ends with us.
 

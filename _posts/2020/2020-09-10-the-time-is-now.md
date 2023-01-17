@@ -35,7 +35,7 @@ This means we must do at least two things:
 
 1. We must never stop mounting public pressure on our community leaders to get them to oppose Strong Mayor and to support Real Rent Control. Whether it is our union, our organization, or our elected officials, we have to keep the pressure on.
 
-2. We must engage our members in these campaigns in a way that does not put the burden of labor on anyone individually but shares it collectively. Meaning we don’t just passively ask our members to vote or rally them into anti Steinberg frenzies but instead we must be intentional [by giving members the resources they need to get involved](https://actionnetwork.org/forms/volunteer-for-rent-control-yes-on-measure-c/) . If we are too passive in this moment we risk losing not once, but twice.
+2. We must engage our members in these campaigns in a way that does not put the burden of labor on anyone individually but shares it collectively. Meaning we don’t just passively ask our members to vote or rally them into anti Steinberg frenzies but instead we must be intentional [by giving members the resources they need to get involved](https://actionnetwork.org/forms/volunteer-for-rent-control-yes-on-measure-c/). If we are too passive in this moment we risk losing not once, but twice.
 
 Our victory is in our hands comrades. Socialists love to say “We have a world to win.” Well, this is one of those chances to win a piece of that world. It’s not every election that you get the opportunity to reject neoliberalism twice on the same ballot. Let’s not waste this opportunity.
 

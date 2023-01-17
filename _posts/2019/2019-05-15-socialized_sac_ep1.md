@@ -13,4 +13,10 @@ You can listen to the [first episode here](https://www.podbean.com/media/share/p
 
 Be on the lookout for future episodes!
 
+  
+
+
+  
+
+
 **There is a base64 image here that I don't support yet**.

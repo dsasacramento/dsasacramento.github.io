@@ -31,6 +31,9 @@ Hudson locates “class first” politics as the source of the white progressive
 
 However, Hudson also observed, “Racism and sexism, insofar as they cannot be economically defined, go unopposed. When movements develop that do oppose these problems, they go unsupported by supporters of economically based coalition politics. Moreover, although white leftists may agree, for example, with the need for a full-scale effort against racism, in practice they often perceive the need for a coalition that includes constituencies that will not accept an anti-racist campaign (e.g., in Boston many leftists saw the need to mobilize racist white ethnics and called race a divisive issue in the 1983 mayoral race). Unfortunately, we have not been willing to step back and assess the failures of economically based coalitions and examine the complex issues involved in the building of such coalitions. ”
 
+  
+
+
 **The Black Left and the Democratic Party**
 
 For West, the question of the rightward shift of the Democrats under Mondale, “the efforts for black unity and the political articulation of people of color in this country is now sophisticated enough to link its concerns with the downtrodden white working poor and the morally sensitive white middle class--as evidenced in the Jackson campaign. Soon the domestic front political pressure is brought to bear on the Democratic party to either embrace or exclude progressive forces. If it chooses the former, leftist possibilities loom large within the two-party system; if it chooses the latter, the only alternative becomes that of wholesale assault on the two-party system with the creation of a third political party.”
@@ -40,6 +43,9 @@ Still, some Jewish members of DSA remained skeptical of Jackson’s ability to a
 Pierce also highlighted the chilling effect DSA’s endorsement of Mondale had on its small Black membership: “What is deeply troubling to many blacks including this writer is why so many of the constituencies targeted by the Rainbow Coalition stayed away and chose to support the neoliberal domestic and cold-war foreign policies of Walter Mondale...What is left unstated but may be the most important reason why white progressives stayed away is their fear that a coalition which puts antiracism at the center of its politics will alienate white labor, the constituency which many on the left still believe is essential to a successful progressive alliance...Obviously, Jackson was not the perfect candidate, but why must the black candidate be perfect? In anticipation of those who will ask, ‘Must we then accept the worst?’, Jesse was not the worst, Mondale was.”
 
 Once again, those in the organization that were sympathetic to a sort of progressive Zionism took exception. Jeffry Mallow, who first criticized Marable for his endorsement of Jackson, responded to Pierce: **“** The January-February issue of DEMOCRATIC LEFT was more than a little troubling for a Jewish socialist to read...we have Paulette Pierce's apologia for Jesse Jackson's antisemitism, wherein she...portrays the "hymie" remark as a one-time gaffe, rather than one of many antisemitic slurs which Jackson has uttered over the last decade” and “implies that Jews and other whites are racist because they refused to vote for a black anti-semite. Frankly, what attracts Jews to the democratic left is that they do not have to ignore their identity, divorce their people, and support everybody's self-determination but their own. Let's hope that, at least in DSA, it stays that way.”
+
+  
+
 
 **The National Minority Commission and the 1985 Convention**
 
@@ -57,6 +63,9 @@ Nonetheless, Our Struggle/Nuestra Lucha--the Commissions newsletter--noted that 
 
 That year, the Latino and Anti Racism Commissions developed a series of local leadership “Facing Racism” talks, designed to highlight that “the authentic popular struggles of people of color are constituent parts of the left we seek to create.” Beverly Stein, the Co-Chair of Portland DSA, noted in Our Struggle/Nuestra Lucha that “the events were very successful, attracting new face to DSA and giving us an opportunity to educate, primarily the white left, about racism.”
 
+  
+
+
 **Lookings Toward a future Rainbow Coalition**
 
 By the spring of 1986, DSA began warming relations with the Rainbow Coalition, with both Michael Harrington and Jesse Jackson addressing the opening session of a conference titled [New Directions](https://democraticleft.dsausa.org/files/sites/6/2019/01/DL_1986_V014_03-04_final.pdf), which brought together the various strands of labor and social movements together to organize for a leftward shift within the Democratic Party.
@@ -68,6 +77,9 @@ Writing in the November/December 1986 edition of the Democratic Left, DSA Afro-A
 Aljuwani spoke to the need for the organization to embrace the consciously multi-racial strategy of the Rainbow Coalition, writing that “In the moral vision and political program of Jesse Jackson and the Rainbow Coalition there exists a deliberate attempt to embrace the interests and needs of Afro-Americans, the elderly, women, Hispanics, indigenous peoples, small farmers, Jews, Arabs, displaced industrial workers, trade unionists, gays, peace activists. The major problem has been convincing the three major liberal constituencies -- labor, feminists, and Jews -- of the seriousness of that vision and rhetoric. It is here that DSA can play a major and possibly even a key role. Some in DSA have raised the question of whether the Rainbow Coalition will be a tool only for ethnic political interests or become a broadly based multi-issue grassroots movement. Our response to the Rainbow can help shape the answer.”
 
 Manning Marable, divorced from DSA following the 1984 Presidential election, noted the profound need for a progressive program to address rising rates of Black impoverishment: “In New York City, between 1980 and 1992, 87,000 private-sector jobs were lost. During the same time period, the number of African-Americans living below the poverty level increased from 520,000 to 664,000 people. The average black family in New York City now earns $24,000 annually, compared to over $40,000 a year for whites.”
+
+  
+
 
 **Cornel West and the Development of DSA’s Anti-Racist Politics**
 
@@ -88,3 +100,9 @@ He elaborated that this disparity was amplified by “the disproportionate white
 West thought that “the only effective way the contemporary democratic socialist movement can break out of this circle (and it is possible because the bulk of democratic socialists are among the least racist of Americans) is to be sensitized to the critical importance of antiracist struggles. This "conscientization" cannot take place either by reinforcing agonized white consciences by means of guilt, nor by presenting another grand theoretical analysis with no practical implications.” He further argued that “a major focus on antiracist coalition work will not only lead democratic socialists to act upon their belief in genuine individuality and radical democracy for people around the world; it also will put socialists in daily contact with peoples of color in common struggle. Bonds of trust can be created only within concrete contexts of struggle. This interracial interaction guarantees neither love nor friendship. Yet it can yield more understanding and the realization of two overlapping goals: democratic socialism and antiracism.”
 
 West’s piece became the primary anti-racist text of DSA, and whether followed or not, would serve as the road map to steer the organization forward.
+
+  
+
+
+  
+

@@ -61,6 +61,11 @@ Other than that, the best ways to show solidarity are to be proactive, reach out
 
 - Use the strike to gain support for political or policy goals not covered by the 10 official demands (with the exception of abolition)
 
+  
+  
+  
+
+
 ### Resources
 
 **Main prison strike resource hub:** [http://prisonstrike.com/](http://prisonstrike.com/)
@@ -100,6 +105,10 @@ Video: [https://vimeo.com/283756482](https://vimeo.com/283756482)
 [<span style="font-weight: 400;">https://rustbeltradio.org/2018/08/08/ep20/</span>](https://rustbeltradio.org/2018/08/08/ep20/)
 
 **And this other interview:** [https://itsgoingdown.org/inside-outside-all-on-the-same-side-prisonstrike-round-table/](https://itsgoingdown.org/inside-outside-all-on-the-same-side-prisonstrike-round-table/)
+
+  
+  
+
 
 **Official Fundraiser:** [https://fundly.com/2018-prisoner-strike](https://fundly.com/2018-prisoner-strike)
 

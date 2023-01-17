@@ -27,6 +27,7 @@ The problem is not a bad year or a few accidents but PG&E’s basic shareholder-
 * PG&E lies about inspection results to avoid paying for safety improvements
 * And PG&E neglects to power down during high winds because of the money it would lose
 
+  
 The Green New Deal/Let’s Own PG&E campaign’s goal is to build a mass movement for a public and worker-owned  PG&E, to join it to the Green New Deal, ultimately creating public and worker-owned green energy as part of climate justice. YDSA UC Davis and Sacramento DSA are coming together to support Northern California DSA chapters from Chico, San Francisco, the East Bay, Fresno, and Silicon Valley; together with Diablo Rising Tide, Communities for a Better Environment and others.
 
 *There are three demands:*

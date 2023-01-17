@@ -27,3 +27,9 @@ In solidarity,
 Racial Solidarity Committee, Sacramento DSA
 
 <sup>1</sup> Credit to Dr. Flojaune Cofer.
+
+  
+
+
+  
+

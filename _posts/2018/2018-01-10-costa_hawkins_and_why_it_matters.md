@@ -7,7 +7,7 @@ January 11, 2018 00:43
 
 By C.R. Mills
 
-As the local battle to enact rent control in Sacramento heats up, so does another fight on the front to make housing a human right in California. A longtime dream of housing activists - repealing the Costa-Hawkins Act, which severely restricts the ability of cities to implement strong rent control programs - appears ready for prime time. The state legislature will hold a [<span style="font-weight: 400;">hearing on axing it this Thursday morning</span>](http://ahcd.assembly.ca.gov/hearings) . Should lawmakers ultimately fail to kill Costa-Hawkins, activists plan to put a repeal before voters with a ballot measure this November.
+As the local battle to enact rent control in Sacramento heats up, so does another fight on the front to make housing a human right in California. A longtime dream of housing activists - repealing the Costa-Hawkins Act, which severely restricts the ability of cities to implement strong rent control programs - appears ready for prime time. The state legislature will hold a [<span style="font-weight: 400;">hearing on axing it this Thursday morning</span>](http://ahcd.assembly.ca.gov/hearings). Should lawmakers ultimately fail to kill Costa-Hawkins, activists plan to put a repeal before voters with a ballot measure this November.
 
 But what is the Costa-Hawkins Act? More importantly, why does it matter to you? Here’s four essential reasons repeal could impact you and millions of other Californians.
 

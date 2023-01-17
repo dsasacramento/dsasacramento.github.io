@@ -15,7 +15,7 @@ So far, City Hall has not provided a real vision for how to address Sacramento�
 
 Visions for how cities can provide the large amount of affordable housing people need do exist. But they require the boldness to propose them and the commitment to see them through.
 
-The People’s Policy Project [<span style="font-weight: 400;">recently outlined one such vision</span>](https://peoplespolicyproject.org/2018/04/05/a-plan-to-solve-the-housing-crisis-through-social-housing/) . The basic idea is simple: local governments should begin constructing publicly-owned housing on vacant lots immediately (a map of the 96 city-owned vacant lots is [<span style="font-weight: 400;">here</span>](http://www.sacbee.com/news/local/homeless/article211626784.html)). Financing would come from loans obtained at the lowest possible interest rate.
+The People’s Policy Project [<span style="font-weight: 400;">recently outlined one such vision</span>](https://peoplespolicyproject.org/2018/04/05/a-plan-to-solve-the-housing-crisis-through-social-housing/). The basic idea is simple: local governments should begin constructing publicly-owned housing on vacant lots immediately (a map of the 96 city-owned vacant lots is [<span style="font-weight: 400;">here</span>](http://www.sacbee.com/news/local/homeless/article211626784.html)). Financing would come from loans obtained at the lowest possible interest rate.
 
 The city would then set a base rent for each unit at whatever monthly amount it would cost to pay back the construction loans and maintain the building. Some tenants would pay higher than the base rent, subsidizing lower-income tenants who would pay less than the base rent.
 

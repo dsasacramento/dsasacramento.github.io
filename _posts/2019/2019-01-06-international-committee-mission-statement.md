@@ -13,7 +13,8 @@ While living in the United States and acknowledging it as the most powerful impe
 
 **1. To promote education about international issues**
 
-This committee will connect the local to the international through both internal education of our members and public events. Such education will be focused on DSA’s stance on international issues, which will be in line with the local chapter and the national organization. For example, we publicly support the people of Rojava as a local chapter while also supporting the Boycott, Divestment and Sanction movement’s call for Palestinian rights and opposition to the war in Yemen, as are the national stances of DSA. This committee takes the stance that emphasizes human rights and will seek to have educational meetings, support sessions for those affected by imperialism, and hold forums to educate both the public and our membership on DSA’s international stances.
+This committee will connect the local to the international through both internal education of our members and public events. Such education will be focused on DSA’s stance on international issues, which will be in line with the local chapter and the national organization. For example, we publicly support the people of Rojava as a local chapter while also supporting the Boycott, Divestment and Sanction movement’s call for Palestinian rights and opposition to the war in Yemen, as are the national stances of DSA. This committee takes the stance that emphasizes human rights and will seek to have educational meetings, support sessions for those affected by imperialism, and hold forums to educate both the public and our membership on DSA’s international stances.  
+
 
 **2. To express solidarity and support with international working class and anti-colonial struggles for self-determination abroad.**
 
