@@ -7,38 +7,13 @@ October 23, 2018 19:56
 
 Sacramento DSA Research committee has drafted this voter guide regarding specific candidates and statewide propositions.  The committee has only recommended endorsements on propositions that have demonstrated explicitly how they will effect the working class. For this reason the Sacramento DSA research committee has taken no official stance on Propositions 1-4 or Proposition 12 because the effects on the working class were not clearly laid out in the language of the propositions.
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;"><span style="font-weight: 400;">CA State Senate 4</span></td>
-<td style="width: 50%; height: 18px;">Phillip Kim</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">Proposition 5</td>
-<td style="width: 50%; height: 18px;">No</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">Proposition 6</td>
-<td style="width: 50%; height: 18px;">No</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">Proposition 8</td>
-<td style="width: 50%; height: 18px;">Yes</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">Proposition 10</td>
-<td style="width: 50%; height: 18px;">Yes</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">Proposition 11</td>
-<td style="width: 50%; height: 18px;">No</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 50%; height: 18px;">Measure U</td>
-<td style="width: 50%; height: 18px;"><span style="font-weight: 400;">No Consensus / Lean No</span></td>
-</tr>
-</tbody>
-</table>
+| CA State Senate 4 | Phillip Kim |
+| Proposition 5 | No |
+| Proposition 6 | No |
+| Proposition 8 | Yes |
+| Proposition 10 | Yes |
+| Proposition 11 | No |
+| Measure U | No Consensus / Lean No |
 
 ## Elected Offices
 
