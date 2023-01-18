@@ -9,7 +9,7 @@ By: Benjamin Arriaga
 
 To check out the original text of Resolution 9 visit [sacdsa.org/local-convention/](/local-convention/)
 
-**There is a base64 image here that I don't support yet**.
+![](/assets/images/10227131599112841002.png){: .img-fluid }
 
 Many may be surprised at how much is left up to their personal judgment after joining the Sacramento DSA. We each unexpectedly receive the freedom to make our own conclusions about what qualities to search for in more experienced members we can choose to follow, to lead, to learn from, or to engage with in debate. Each new member may just encounter a mixture of interactions, pleasant and less than pleasant. We are people after all. Not all relatively seasoned or “old guard” members may share the same opinions or experiences with the DSA, or with struggles and leftwing activism in Sacramento. At some point, a new member may have the following statements expressed to them about what the DSA is: “We are the left wing of the possible,” “We focus on making non-reformist reforms,” “We are a pre-party formation” or “We are a party surrogate,” and “We turn thinkers into fighters and fighters into thinkers.”
 

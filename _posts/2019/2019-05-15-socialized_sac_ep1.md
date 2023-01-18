@@ -19,4 +19,4 @@ Be on the lookout for future episodes!
   
 
 
-**There is a base64 image here that I don't support yet**.
+![](/assets/images/1086691289310772697.png){: .img-fluid }

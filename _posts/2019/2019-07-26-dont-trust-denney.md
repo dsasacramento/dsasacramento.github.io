@@ -7,7 +7,7 @@ July 26, 2019 16:29
 
 By Anthony Haddad
 
-**There is a base64 image here that I don't support yet**.
+![](/assets/images/14658106127078890798.png){: .img-fluid }
 
 In April, CA01 congressional candidate Audrey Denney received the Sunrise Movement’s first 2020 endorsement of a political candidate after signing a pledge to support the Green New Deal at a town hall in Chico. Since then, Denney has broken the spirit of that pledge by her recent endorsements of two people actively working to undermine the fight against climate change: Rusty Hicks for Chair of the California Democratic Party and Brian Dahle for California Senate.
 
