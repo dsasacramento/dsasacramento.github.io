@@ -17,7 +17,7 @@ instagram: &instagram
   username: dsasac
 
 github: &youtube
-  label: "GitHub"
+  label: "YouTube"
   icon: "fab fa-fw fa-youtube"
   url: "https://www.youtube.com/c/DSASacramento"
   username: DSASacramento
