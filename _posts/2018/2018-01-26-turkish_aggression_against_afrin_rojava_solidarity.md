@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "A Statement on the Turkish Aggression Against Afrin by the Rojava Solidarity Committee - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-01-26-turkish_aggression_against_afrin_rojava_solidarity/
 ---

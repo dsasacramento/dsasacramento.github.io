@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Tents Aren't Enough - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-06-16-tentsarentenough/
 ---

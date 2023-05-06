@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Sacramento DSA 2018 Endorsements - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-05-15-sacramento_dsa_endorsements/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The False Argument Against Rent Control - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-04-03-forrentcontrol/
 ---

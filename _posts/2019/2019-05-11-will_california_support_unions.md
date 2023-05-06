@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Will California Support Unions?"
 permalink: /blog/2019/2019-05-11-will_california_support_unions/
 ---

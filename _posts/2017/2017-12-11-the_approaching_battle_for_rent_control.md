@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The Approaching Battle for Rent Control - Democratic Socialists of America, Sacramento"
 permalink: /blog/2017/2017-12-11-the_approaching_battle_for_rent_control/
 ---

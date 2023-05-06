@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Statement on the Lack of Charges in the Stephon Clark Case - Democratic Socialists of America, Sacramento"
 permalink: /blog/2019/2019-03-04-statement_stephon_clark_no_charges/
 ---

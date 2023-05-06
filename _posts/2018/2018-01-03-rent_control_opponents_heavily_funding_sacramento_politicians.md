@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Rent Control Opponents Heavily Funding Sacramento Politicians - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-01-03-rent_control_opponents_heavily_funding_sacramento_politicians/
 ---

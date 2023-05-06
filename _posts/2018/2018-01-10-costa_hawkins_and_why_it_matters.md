@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Costa-Hawkins and Why It Matters - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-01-10-costa_hawkins_and_why_it_matters/
 ---

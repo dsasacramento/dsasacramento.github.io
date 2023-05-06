@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "George Floyd Solidarity Statement"
 permalink: /blog/2020/2020-06-01-george-floyd-solidarity-statement/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The Time Is Now"
 permalink: /blog/2020/2020-09-10-the-time-is-now/
 ---

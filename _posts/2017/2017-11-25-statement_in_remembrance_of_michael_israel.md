@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "A Statement in Remembrance of Michael Israel - Democratic Socialists of America, Sacramento"
 permalink: /blog/2017/2017-11-25-statement_in_remembrance_of_michael_israel/
 ---

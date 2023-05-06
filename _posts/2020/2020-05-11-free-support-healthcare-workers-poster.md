@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Free Support Healthcare Workers Poster!"
 permalink: /blog/2020/2020-05-11-free-support-healthcare-workers-poster/
 ---

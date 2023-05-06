@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The Human Impact of Rent Hikes and What We Can Do - Democratic Socialists of America, Sacramento"
 permalink: /blog/2017/2017-11-20-what-we-can-do/
 ---

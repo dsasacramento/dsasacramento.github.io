@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "What We're Facing - Democratic Socialists of America, Sacramento"
 permalink: /blog/2017/2017-11-02-rentcontrol/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "A People of Color's History of DSA, Part 3: DSA and The First Rainbow Coalition"
 permalink: /blog/2019/2019-12-04-a-people-of-color-s-history-of-dsa-part-3-dsa-and-the-first-rainbow-coalition/
 ---

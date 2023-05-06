@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Chapter Statement on COVID Crisis"
 permalink: /blog/2020/2020-04-30-chapter-statement-on-covid-crisis/
 ---

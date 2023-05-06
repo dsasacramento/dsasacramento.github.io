@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Pathway to a More Progressive Sacramento City Council - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-07-28-sac_city_council/
 ---

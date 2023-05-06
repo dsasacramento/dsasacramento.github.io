@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Op Ed: Against Resolution 22"
 permalink: /blog/2019/2019-07-26-against-resolution-22/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "A People of Color's History of DSA, Part 4: DSA Looks Inward"
 permalink: /blog/2020/2020-07-06-a-people-of-color-s-history-of-dsa-part-4-DSA-Looks-Inward/
 ---

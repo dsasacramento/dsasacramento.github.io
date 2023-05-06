@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Op Ed: Reorganization is Necessary for Sac DSA - Democratic Socialists of America, Sacramento"
 permalink: /blog/2019/2019-03-12-op_ed_reorganization_sac_dsa/
 ---

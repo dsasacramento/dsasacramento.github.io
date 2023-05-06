@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Op Ed: Don’t Trust Audrey Denney On Climate Issues"
 permalink: /blog/2019/2019-07-26-dont-trust-denney/
 ---

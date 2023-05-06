@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Thoughts on Organizing to Keep Schools Safe"
 permalink: /blog/2020/2020-07-25-thoughts-on-organizing-to-keep-schools-safe/
 ---

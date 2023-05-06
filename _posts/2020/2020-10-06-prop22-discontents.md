@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Proposition 22 &amp; its DISCONTENTS"
 permalink: /blog/2020/2020-10-06-prop22-discontents/
 ---

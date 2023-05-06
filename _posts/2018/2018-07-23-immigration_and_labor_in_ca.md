@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Immigration and Labor in CA: A Contextual and Historical Report - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-07-23-immigration_and_labor_in_ca/
 ---

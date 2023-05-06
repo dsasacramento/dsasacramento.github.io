@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Research Committee 2018 Voter Recommendations - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-10-23-research_nov_2018_voting_guide/
 ---

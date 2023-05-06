@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Not An Empty Round: A Response to Objections by the Sacramento DSA CPN Caucus on Resolution 9"
 permalink: /blog/2020/2020-09-16-not-an-empty-round-a-response-to-objections-by-the-sacramento-dsa-cpn-caucus-on-resolution-9/
 ---

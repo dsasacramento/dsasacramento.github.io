@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "A People of Color’s History of DSA, Part 1: Socialism, Race, and the Formation of DSA"
 permalink: /blog/2019/2019-08-13-a-people-of-color-s-history-of-dsa-part-1-socialism-race-and-the-formation-of-dsa/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Not One More: A Statement on Stephon Clark - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-04-04-not-one-more-statement-on-stephon-clark/
 ---

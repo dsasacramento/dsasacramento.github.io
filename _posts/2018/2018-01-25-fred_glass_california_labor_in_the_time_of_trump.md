@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Video: California Historian Fred Glass Talks About California Labor in the Time of Trump - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-01-25-fred_glass_california_labor_in_the_time_of_trump/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "We Need a Democratic Socialist Mayor in 2020 - Democratic Socialists of America, Sacramento"
 permalink: /blog/2019/2019-03-14-democratic_socialist_for_mayor_2020/
 ---

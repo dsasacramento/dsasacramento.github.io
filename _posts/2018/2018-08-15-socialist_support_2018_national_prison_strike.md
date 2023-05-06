@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Why and How Socialists Should Support the 2018 National Prison Strike - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-08-15-socialist_support_2018_national_prison_strike/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Report from the Green New Deal / Let’s Own PG&amp;E kickoff with East Bay DSA - Democratic Socialists of America, Sacramento"
 permalink: /blog/2019/2019-01-30-green_new_deal_pge_kickoff/
 ---

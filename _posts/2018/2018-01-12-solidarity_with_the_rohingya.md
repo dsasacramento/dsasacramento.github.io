@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Op-Ed: The Democratic Socialists of America must stand in solidarity with the Rohingya - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-01-12-solidarity_with_the_rohingya/
 ---

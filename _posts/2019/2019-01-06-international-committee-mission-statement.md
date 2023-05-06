@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "International Committee Mission Statement - Democratic Socialists of America, Sacramento"
 permalink: /blog/2019/2019-01-06-international-committee-mission-statement/
 ---

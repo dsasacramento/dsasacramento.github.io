@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Sacramento Democratic Socialists Win First Seat on City Council"
 permalink: /blog/2020/2020-03-10-sacramento-democratic-socialists-win-first-seat-on-city-council/
 ---

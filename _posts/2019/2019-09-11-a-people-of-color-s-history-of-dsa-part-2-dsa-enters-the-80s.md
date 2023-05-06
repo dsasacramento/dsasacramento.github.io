@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "A People of Color’s History of DSA, Part 2: DSA Enters the 80s"
 permalink: /blog/2019/2019-09-11-a-people-of-color-s-history-of-dsa-part-2-dsa-enters-the-80s/
 ---

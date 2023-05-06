@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Gaza killing fields open and shut quickly: Why, and how to stop the carnage"
 permalink: /blog/2022/2022-08-24-gaza-killing-fields-open-and-shut-quickly-why-and-how-to-stop-the-carnage/
 ---

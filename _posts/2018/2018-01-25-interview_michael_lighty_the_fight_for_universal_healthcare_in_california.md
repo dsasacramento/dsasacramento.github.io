@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Interview: Cal Nurses Public Policy Director Michael Lighty on the Fight for Universal Healthcare in California  - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-01-25-interview_michael_lighty_the_fight_for_universal_healthcare_in_california/
 ---

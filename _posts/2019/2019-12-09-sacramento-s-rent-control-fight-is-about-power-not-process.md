@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Sacramento’s Rent Control Fight Is About Power, Not Process"
 permalink: /blog/2019/2019-12-09-sacramento-s-rent-control-fight-is-about-power-not-process/
 ---

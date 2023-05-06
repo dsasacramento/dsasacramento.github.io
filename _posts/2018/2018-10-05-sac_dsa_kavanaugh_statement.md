@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Sacramento DSA Statement on Brett Kavanaugh - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-10-05-sac_dsa_kavanaugh_statement/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Announcing Socialized Sacramento: The Sac DSA Podcast!"
 permalink: /blog/2019/2019-05-15-socialized_sac_ep1/
 ---

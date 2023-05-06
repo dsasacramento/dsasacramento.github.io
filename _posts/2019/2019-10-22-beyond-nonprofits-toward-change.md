@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Beyond Nonprofits, Toward Change"
 permalink: /blog/2019/2019-10-22-beyond-nonprofits-toward-change/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "What’s going on with labor unions? - Democratic Socialists of America, Sacramento"
 permalink: /blog/2018/2018-03-08-what_is_going_on_with_labor_unions/
 ---

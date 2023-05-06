@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Venezuela Solidarity Statement - Democratic Socialists of America, Sacramento"
 permalink: /blog/2019/2019-01-30-venezuela_solidarity_statement_01_30_19/
 ---

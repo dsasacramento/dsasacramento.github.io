@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Why I Pay Dues to DSA - Democratic Socialists of America, Sacramento"
 permalink: /blog/2017/2017-11-13-pay-your-dues/
 ---
