@@ -3,7 +3,6 @@ layout: page
 title: "About DSA"
 permalink: /about/dsa
 ---
-# About DSA
 ## Learn about our organization
 
 The Democratic Socialists of America (DSA) is the largest socialist organization
