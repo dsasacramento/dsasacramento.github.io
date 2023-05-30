@@ -25,7 +25,12 @@ github: &youtube
 email: &email
   label: "Email"
   icon: "fa fa-envelope"
-  url: "mailto:press@sacdsa.org"
+  url: "mailto:info@sacdsa.org"
+
+pressEmail: &pressEmail
+  label: "Press Email"
+  icon:  "fa fa-envelope"
+  url:   "mailto:press@sacdsa.org"
 
 # We use the above links in different combinations in 
 # different places in the site. Making lists in the manner

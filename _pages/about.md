@@ -13,5 +13,5 @@ You can also stay in the loop by checking out our [blog](https://sacdsa.org/blog
 
 Let today be the day you get involved and build the power to win the world we need.
 
-<a class="btn btn-primary" href="/about/committies"> Committies, where the work happens</a>
+<a class="btn btn-primary" href="/about/committees"> Committees, where the work happens</a>
 <a class="btn btn-primary" href="/about/DSA"> About DSA, learn about our organization</a>
