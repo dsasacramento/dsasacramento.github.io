@@ -12,8 +12,8 @@ that are important to them.
 
 ### Electoral Committee
 
-    Co-Chair(s): TBA
-    Contact: admin@sacdsa.org
+* Co-Chair(s): TBA
+* Contact: admin@sacdsa.org
 
 ### Healthcare Committee
 
@@ -25,8 +25,8 @@ deductibles. We have been knocking on doors, tabling at farmers’ markets,
 creating memes, holding town halls, meeting with legislators, and doing actions
 at their offices.
 
-    Co-Chair(s): Shirley T. and Jenny O.
-    Contact: admin@sacdsa.org
+* Co-Chair(s): Shirley T. and Jenny O.
+* Contact: admin@sacdsa.org
 
 ### Housing Committee
 
@@ -47,8 +47,8 @@ protections, repealing laws that hurt tenants, and fighting laws that give
 landlord more power. The groups also help others with campaigns to get rent
 control or just cause eviction laws in their city.
 
-    Co-Chair(s): TBA
-    Contact: admin@sacdsa.org
+* Co-Chair(s): TBA
+* Contact: admin@sacdsa.org
 
 ### International Committee
 
@@ -64,8 +64,8 @@ working class and anti-colonial struggles for self-determination abroad, and 3.
 to reject imperialism in all its forms as a barrier to the advancement of
 socialism.
 
-    Co-Chair(s): David M.
-    Contact: admin@sacdsa.org
+* Co-Chair(s): David M.
+* Contact: admin@sacdsa.org
 
 ### Labor Committee
 
@@ -73,8 +73,8 @@ Want to learn about and get support in building power in your workplace to make
 real change for you and your co-workers? Join the Labor Committee at our next
 meeting.
 
-    Co-Chair(s): Kyle L. and Aaron Z.
-    Contact: admin@sacdsa.org
+* Co-Chair(s): Kyle L. and Aaron Z.
+* Contact: admin@sacdsa.org
 
 ### Mutual Aid Committee
 
@@ -98,8 +98,8 @@ relationship, not a material one based on hierarchy. We also believe it is
 important to empower DSA members and members of the local community to make
 meaningful systemic change (outside of existing systems).
 
-    Co-Chair(s): Chelsea F. and Paul A.
-    Contact: mutualaid@sacdsa.org
+* Co-Chair(s): Chelsea F. and Paul A.
+* Contact: mutualaid@sacdsa.org
 
 ### Racial Solidarity Committee
 
@@ -115,8 +115,8 @@ committee focuses on dialogue, education, coalition work, and direct action that
 advances multiracial solidarity as a crucial prerequisite to a united working
 class. Out of many colors, one class.
 
-    Co-Chair(s): TBA
-    Contact: admin@sacdsa.org
+* Co-Chair(s): TBA
+* Contact: admin@sacdsa.org
 
 ### Socialist Education Committee
 
@@ -125,5 +125,5 @@ and action. The Socialist Education Committee creates events and materials to
 aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
 
-    Co-Chair(s): David R. and Connie
-    Contact: admin@sacdsa.org
+* Co-Chair(s): David R. and Connie
+* Contact: admin@sacdsa.org
