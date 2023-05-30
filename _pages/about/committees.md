@@ -3,7 +3,6 @@ layout: page
 title: "Committees"
 permalink: /about/committees/
 ---
-# Committees
 ## Where the work happens
 
 Sacramento DSA has many committees engaged in the important work of the chapter,
