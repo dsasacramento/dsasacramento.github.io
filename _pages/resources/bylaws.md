@@ -8,30 +8,30 @@ permalink: /resources/bylaws/
 The name of the Local shall be the Sacramento Local of the Democratic Socialists of America, also known colloquially as DSA Sacramento or Sacramento DSA.
 
 ## Purpose.
+The Sacramento Local of the Democratic Socialists of America seeks to facilitate the transition to a truly democratic and socialist society, one in which the means/resources of production are democratically and socially controlled. 
 
-The Sacramento Local of the Democratic Socialists of America seeks to facilitate the transition to a truly democratic and socialist society, one in which the means/resources of production are democratically and socially controlled.
+DSA rejects an economic order based solely on private profit, alienated labor, gross inequalities of wealth and power, discrimination based on race and sex, and brutality and violence in defense of the status quo. 
 
-DSA rejects an economic order based solely on private profit, alienated labor, gross inequalities of wealth and power, discrimination based on race and sex, and brutality and violence in defense of the status quo.
+DSA envisions a humane social order based on popular control of resources and production, economic planning, equitable distribution, gender and racial equality, and non-oppressive relationships. 
 
-DSA envisions a humane social order based on popular control of resources and production, economic planning, equitable distribution, gender and racial equality, and non-oppressive relationships.
+Our conception of socialism is a profoundly democratic one. It is rooted in the belief that human beings should be free to develop to their fullest potential, that public policies should be determined not by wealth but by popular participation, and that individual liberties should be carefully safeguarded. It is committed to a freedom of speech that does not recoil from dissent, to a freedom to organize independent trade unions, women’s groups, political parties, and other formations -- recognizing these as essential bulwarks against the dangers of an intrusive state. It is committed to a freedom of religion that acknowledges the rights of those for whom spiritual concerns are central. 
 
-Our conception of socialism is a profoundly democratic one. It is rooted in the belief that human beings should be free to develop to their fullest potential, that public policies should be determined not by wealth but by popular participation, and that individual liberties should be carefully safeguarded. It is committed to a freedom of speech that does not recoil from dissent, to a freedom to organize independent trade unions, women’s groups, political parties, and other formations -- recognizing these as essential bulwarks against the dangers of an intrusive state. It is committed to a freedom of religion that acknowledges the rights of those for whom spiritual concerns are central.
+We are socialists because we are developing a concrete strategy for achieving that vision. In the present, we are building a visible socialist presence within the broad democratic left. In the long run, we hope to build a majority movement capable of making democratic socialism a reality in the United States. Our strategy acknowledges the class structure of the U.S. society.
 
-We are socialists because we are developing a concrete strategy for achieving that vision. In the present, we are building a visible socialist presence within the broad democratic left. In the long run, we hope to build a majority movement capable of making democratic socialism a reality in the United States. Our strategy acknowledges the class structure of the U.S. society. This class structure means that there is a basic conflict of interest between those sectors with enormous economic power and the vast majority of the population.
+This class structure means that there is a basic conflict of interest between those sectors with enormous economic power and the vast majority of the population. 
 
 ## Meetings.
+Sacramento DSA will hold a minimum of four General Membership Meetings annually. The General Membership will elect Local officers and may adopt an annual budget. In general, it is the highest legislative body of the Local. 
 
-Sacramento DSA will hold a minimum of four General Membership Meetings annually. The General Membership will elect Local officers and may adopt an annual budget. In general, it is the highest legislative body of the Local.
+The Steering Committee will set the agenda for General Membership Meetings. 
 
-The Executive Committee will set the agenda for General Membership Meetings.
+The Steering Committee may call an Emergency Meeting of the General Membership on five days notice when an urgent and important matter requires deliberation. 
 
-The Executive Committee may call an Emergency Meeting of the General Membership on five days notice when an urgent and important matter requires deliberation.
+## Quorum. 
 
-## Quorum.
+A quorum of 10% of the membership is required for all elections. 
 
-A quorum of 10% of the membership is required for all elections.
-
-A quorum of 5% of the membership is required for all votes of the General Membership and other business meetings.
+A quorum of 5% of the membership is required for all votes of the General Membership and other business meetings. If a voting quorum is not met during the time of a general membership meeting where such a quorum is required, voting shall be conducted through an online poll sent out to the general membership via email. The poll in question shall be open for at least 48 hours following said meeting.
 
 ## Officers.
 
@@ -61,41 +61,50 @@ The Secretary is allowed two consecutive excused absences from meetings, with th
 
 The Secretary is charged with forming a Communications Standing Committee. The Communications Standing Committee handles all internal and external communications. The Communications Standing Committee is expected to direct all relevant media inquiries to the appropriate campaign and/or committee leadership.
 
-#### Organizer.
+#### Communications Director. 
 
-The Organizer is charged with sponsoring and assuming ultimate responsibility for the actions and operations of select committees. The Organizer is a liaison between the Executive Board and select committees assigned to them.
+The Communications Director is charged with forming a Communications Standing Committee. 
+
+The Communications Standing Committee handles all internal and external communications. The Communications Standing Committee is expected to direct all relevant media inquiries to the appropriate campaign and/or committee leadership. The Communications Director is charged with performing or delegating all external communications tasks including but not limited to monthly newsletters, mass emails, graphics creation, and social media management. 
+
+#### Organizer.
+The Organizer is charged with sponsoring and assuming ultimate responsibility for the actions and operations of select committees. The Organizer is a liaison between the Steering Committee and select committees assigned to them. Four Organizers will be elected to the Steering Committee. 
+
+All organizers will have the shared duties of hosting a quarterly New Member Orientation, and recruiting members to help execute the following tasks: 
+
+At least 2 organizers will be tasked with overseeing internal mobilization efforts which include: (1) Cutting monthly lists of new members (2) Reaching out to new members to have 1:1 organizing conversations to plug them into the chapter based on their interests (3) Reach out to members w/ expired dues and (4) Lead Dues/Membership Drives. 
+
+At least 2 organizers will be tasked with overseeing external outreach efforts which include: (1) Monthly nationbuilder/collective contacts data entry, (2) Follow up with new sign ups on a monthly basis, (3) Tracking tabling materials and (4) Ordering and printing literature. 
 
 The Organizer is allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting.
 
-
-
-All members in leadership roles, including but not limited to e-board and co-chair positions, are required to undergo anti-oppression training that addresses anti-racism, socialist feminism, disability justice, and other topics critical to our collective liberation. These trainings must occur within the first three months of leadership, and failure to complete these trainings will result in leadership benefits, such as voting rights, being revoked.
+All members in leadership roles, including but not limited to Steering Committee and co-chair positions, are required to undergo anti-oppression training that addresses anti-racism, socialist feminism, disability justice, and other topics critical to our collective liberation. These trainings must occur within the first three months of leadership, and failure to complete these trainings will result in leadership benefits, such as voting rights, being revoked.
 
 An ad hoc working group will be formed to further determine the content of this training and will present an overview of the final content, materials, and potential facilitators of these training sessions to the general body before being adopted and shall be reviewed every 2 years.
 
 This requirement retroactively applies to current leadership, who should fulfill the requirement within 3 months of the completion of training materials. 
 
-The requirement applies to each new board, including recurring board members who may have completed past training.
+The requirement applies to each new Steering Committee, including recurring Steering Committee members who may have completed past training. 
 
-#### Executive Board.
+## Steering Committee.  
 
-The Executive Board consists of two Co-Chairs, one Secretary-Treasurer, one Membership Coordinator, and three Organizers. After September 2017 Elections the board will consist of two Co-chairs, one Secretary, one Treasurer, and three Organizers.
+The Steering Committee consists of two Co-Chairs, one Secretary-Treasurer, one Membership Coordinator, and three Organizers. After September 2017 Elections the Steering Committee will consist of two Co-chairs, one Secretary, one Treasurer, and three Organizers. 
 
-The Executive Board must hold one in-person business meeting per month. Business meetings must be publicized to the General Membership, and be open for attendance by the General Membership. Notes from each Executive Board business meeting must be made available to the General Membership following the meeting.
+The Steering Committee must hold one in-person or virtual business meeting per month. Business meetings must be publicized to the General Membership, and be open for attendance by the General Membership. An agenda should be made available to the General Membership at least 12 hours in advance. Approved notes from each Steering Committee business meeting must be made available to the General Membership following the meeting. 
 
-If any officer misses two Executive Board business meetings in a row, a referendum will be called. If the Executive Board does not hold a meeting, it counts as one absence for the entire Executive Board.
+If any officer misses two Steering Committee business meetings in a row, a referendum will be called. If the Steering Committee does not hold a meeting, it counts as one absence for the entire Steering Committee. 
 
-The Executive Board reviews all committee expenditures and campaigns, and agendizes such motions for ratification at the General Membership Meeting. The Executive Board reviews urgent committee actions that cannot be brought before the General Membership, and approves of such motions by consent. The Executive Board has 24 hours to object to urgent committee motions. If no objection is made, the committee motion passes.
+The Steering Committee reviews all committee expenditures and campaigns, and agendizes such motions for ratification at the General Membership Meeting. The Steering Committee reviews urgent committee actions that cannot be brought before the General Membership, and approves of such motions by consent. The Steering Committee has 24 hours to object to urgent committee motions. If no objection is made, the committee motion passes. 
 
-The Executive Board determines the allocation of resources to all committees.
+The Steering Committee determines the allocation of resources to all committees. 
 
-The Executive Board may also recommend the dismantling of any committee to the General Membership.
+The Steering Committee may also recommend the dismantling of any committee to the General Membership. 
 
-If any member of the Executive Board resigns from their post, the remaining Executive Board members will select an Interim Officer to assume the role until elections can be held.
+If any member of the Steering Committee resigns from their post, the remaining Steering Committee members will select an Interim Officer to assume the role until elections can be held. 
 
-The Executive Board is responsible for considering and responding to all chapter requirements and action requests as dictated by the DSA National Organization, being responsive to such requirements/requests, and communicating these requirements/request to the General Membership.
+The Steering Committee is responsible for considering and responding to all chapter requirements and action requests as dictated by the DSA National Organization, being responsive to such requirements/requests, and communicating these requirements/request to the General Membership. 
 
-The Executive Board motions need to pass by majority of the board membership.
+The Steering Committee motions need to pass by majority of the Steering Committee membership. 
 
 ## Committees.
 
@@ -193,6 +202,5 @@ The Executive Committee is required to facilitate an annual Local Convention[*].
 ## Rules of the Local.
 
 The Rules contained in Robert’s Rules of Order, Newly Revised, shall govern this Local in cases to which they are applicable and in which they are not inconsistent with these Bylaws. Consensus decision-making is desirable where feasible, but meetings must submit to Robert’s Rules of Order upon the request of a member.
-
 
 Any action taken by an officer or member of the Local in contravention of these Bylaws is null and void.
