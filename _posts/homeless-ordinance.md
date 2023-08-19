@@ -26,6 +26,7 @@ This ordinance does not come to us in perfection. There is a lack of clarity on 
 
 
 My Opinion: 
+
 After watching this debate unfold for over 6 hours, I have come to the following conclusions:
 
 Human beings need a dignified place to reside. Given we have a fully utilized 1100 bed capacity to house our 10,000 unhoused people, this ordinance will be beneficial and could potentially lead to upwards of $5 million in funding to create a more permanent destination for our remaining 8900 unhoused citizens. We should continually advocate for the most vulnerable among us, and funding initiatives that favor solutions over bandaid enforcement is a key to success.
