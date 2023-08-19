@@ -1,12 +1,10 @@
+---
 layout: post
-
 title: "2023 National DSA Convention - A Debrief"
-
 permalink: /National-DSA-Con-Debrief-2023/
-
 tag: National DSA Convention, Debrief
-
 short_description: "A debrief of the 2023 National DSA Convention"
+---
 
 By: James J. Jackson
 
@@ -100,6 +98,3 @@ So long as we stay this course and keep our heads held high and maintain a sense
 I have never been happier and more eager to tell everyone I know, “Why yes, I am a member of Sacramento DSA. Allow me to introduce you to my comrades.”
 
 James J. Jackson is a member of the SacDSA steering committee and served as its co-chair in the 2019-2020 term.  He has written for Sac News and Review, the Sac DSA blog, Democratic Left, and Socialist Forum.  He also writes fiction, poetry, and journalism under the pen name Jimbo Jax.
-
-
-
