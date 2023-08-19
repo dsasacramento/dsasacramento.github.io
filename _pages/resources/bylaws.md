@@ -37,29 +37,27 @@ A quorum of 5% of the membership is required for all votes of the General Member
 
 #### Co-chairs.
 
-Co-chairs are charged with drafting the agenda for all Executive Board business meetings and all General Membership meetings. They assume ultimate responsibility for the actions and operations of the local chapter.
+Co-chairs are charged with drafting the agenda for all Steering Committee business meetings and all General Membership meetings. They assume ultimate responsibility for the actions and operations of the local chapter. 
 
-Both Co-chairs are expected to attend all Executive Board and General Membership meetings. At all meetings, one Co-chair must assume parliamentary responsibilities while the other runs the meeting.
+Both Co-chairs are expected to attend all Steering Committee and General Membership meetings. At all meetings, one Co-chair must assume parliamentary responsibilities while the other runs the meeting. 
 
-Co-chairs are allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting.
+Co-chairs are allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting. 
 
-At least one Co-chair must be a self-identified woman.
+At least one Co-chair must be a self-identified woman. 
 
 #### Treasurer.
 
-The Treasurer maintains the DSA Sacramento bank account and finances. The Treasurer delivers financial reports to all Executive Board meetings and all General Membership meetings. The Treasurer also delivers a yearly detailed treasurer's report to the Executive Board and General Membership.
+The Treasurer maintains the DSA Sacramento bank account and finances. The Treasurer delivers financial reports to all Steering Committee meetings and all General Membership meetings. The Treasurer also delivers a yearly detailed treasurer's report to the Steering Committee and General Membership. 
 
-The Treasurer is allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting.
+The Treasurer is allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting. 
 
-The Treasurer chairs the Finance Standing Committee. The Finance Standing Committee will determine an expenditure amount that must be voted on by the General Membership. The Finance Standing committee is charged with developing an annual budget and financing plan, to be approved by the General Membership.
+The Treasurer chairs the Finance Standing Committee. The Finance Standing Committee will determine an expenditure amount that must be voted on by the General Membership. The Finance Standing committee is charged with developing an annual budget and financing plan, to be approved by the General Membership, in accordance with the Accounting Policies and Procedures Manual. 
 
 #### Secretary.
 
-The Secretary is charged with taking meeting minutes at all Executive and General Membership meetings. The Secretary is charged with maintaining consistent communication with new and existing members of the local chapter. The Secretary must demonstrate this consistent communication to the Executive Board. The Secretary maintains an organizational chart, tracks committees, and enforces bylaws.
+The Secretary is charged with taking meeting minutes at all Steering Committee and General Membership meetings. The Secretary is charged with maintaining consistent communication with new and existing members of the local chapter. The Secretary must demonstrate this consistent communication to the Steering Committee. The Secretary maintains an organizational chart, tracks committees, and enforces bylaws. The Secretary must become a member of the Communications standing committee formed by the Communications Director. The Secretary is charged with performing or delegating all internal communications tasks including but not limited to membership texting campaigns, membership phone banking campaigns, and ballot creation. 
 
-The Secretary is allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting.
-
-The Secretary is charged with forming a Communications Standing Committee. The Communications Standing Committee handles all internal and external communications. The Communications Standing Committee is expected to direct all relevant media inquiries to the appropriate campaign and/or committee leadership.
+The Secretary is allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting. 
 
 #### Communications Director. 
 
@@ -108,8 +106,6 @@ The Steering Committee motions need to pass by majority of the Steering Committe
 
 ## Committees.
 
-DSA Sacramento will defer to Robert’s Rules of Order to distinguish between committees and standing committees.
-
 ####  Formation of Committees
 
 Ideas for committees must be proposed in front of the General Membership. At that time, three dues-paying members in total must come forward, stating their willingness to participate in the committee. An Organizer must also come forward, stating their willingness to sponsor and assume responsibility for the committee. If and when these requirements are met, the group is assigned “working group” status. The group then is tasked with the following, to be completed by the next general membership meeting:
@@ -121,33 +117,36 @@ Following the presentation, the General Membership will vote to ratify the propo
 
 #### Committee Operations
 
-Committee leadership must notify their assigned Organizer of all committee business. Committee leadership must invite their assigned Organizer to all committee meetings and events.
+Committee leadership must notify their assigned Organizer of all committee business. Committee leadership must invite their assigned Organizer to all committee meetings and events. Each Committee will establish and monitor a committee email. 
 
-Committees must bring all committee expenditures and campaigns before the Executive Board, so such actions may be agendized for the General Membership Meeting.
+Committee leadership will send one representative per month to a Steering Committee meeting. The committee representative will communicate with the Steering Committee and other committee representatives about their committee's upcoming events and what resources or support they require from the broader Chapter.
 
-Committees must seek the approval of the General Membership for all campaigns.
+Committees must bring all committee expenditures and campaigns before the Steering Committee, so such actions may be scheduled for the General Membership Meeting. 
 
-Committees must report all actions and campaigns to the Media Committee for publicity.
+Committees must seek the approval of the General Membership for all campaigns. Committees must report all actions and campaigns to the Media Committee for publicity. 
 
-In the event that a committee faces a time-sensitive motion that cannot be brought before the General Membership before action is required, that committee may bring the motion before the Executive Board for approval by consent.
+In the event that a committee faces a time-sensitive motion that cannot be brought before the General Membership before action is required, that committee may bring the motion before the Steering Committee for approval by consent. 
 
-Committees may be dismantled by a vote of the General Membership, brought about by: recommendation of the Executive Board; or recommendation by any General Member, for reasons such as violating DSA Sacramento bylaws. Committees may also self-dismantle at any time.
+A vote of the General Membership may dismantle committees, brought about by: recommendation of the Steering Committee; or recommendation by any General Member, for reasons such as violating DSA Sacramento bylaws. Committees may also self-dismantle at any time. 
 
-Committees are expected to help manage press inquiries regarding committee business.
+Committees are expected to help manage press inquiries regarding committee business. 
+
+Committees must conduct yearly, publicized elections. Elections should be publicized at minimum of 2 weeks in advance. 
+
 
 ## Working Groups.
 
-Ideas for Working Groups must be proposed in front of the General Membership. At that time, two dues-paying members in total must come forward, stating their willingness to participate in the working group. The purpose of the working group, as well as the expected end-date of the project, must also be stated.
+Ideas for Working Groups must be proposed in front of the General Membership. At that time, two dues-paying members in total must come forward, stating their willingness to participate in the working group. The purpose of the working group, as well as the expected end-date of the project, must also be stated. 
 
-Following the proposal, the General Membership will vote whether or not to give permission to proceed with the working group. A working group needs to acquire a simple majority vote in favor in order to proceed.
+Following the proposal, the General Membership will vote whether or not to give permission to proceed with the working group. A working group needs to acquire a simple majority vote in favor in order to proceed. 
 
-Working groups must report to the Executive Committee. All working group actions must be brought before the Executive Board for consent.
+Working groups must report to the Steering Committee. All working group actions must be brought before the Steering Committee for consent.
 
-Working groups must report all actions and campaigns to the Media Committee for publicity.
+Working groups must report all actions and campaigns to the Media Committee for publicity. 
 
-Working groups may seek a deadline extension by vote of the General Membership.
+Working groups may seek a deadline extension by vote of the General Membership. 
 
-Working groups may be dismantled by a vote of the General Membership, brought about by: recommendation of the Executive Board; or recommendation by any General Member, for reasons such as violating DSA Sacramento bylaws. Working groups may also self-dismantle at any time.
+Working groups may be dismantled by a vote of the General Membership, brought about by: recommendation of the Steering Committee; or recommendation by any General Member, for reasons such as violating DSA Sacramento bylaws. Working groups may also self-dismantle at any time. 
 
 ## Membership.
 
@@ -155,7 +154,7 @@ Members of the Sacramento DSA are those individuals whose dues to national DSA a
 
 Individuals whose dues to national DSA are unpaid may still participate as non-voting volunteers. These non-voting volunteers may not hold office, may not chair committees or working groups, and may not count toward quorum.
 
-If a member is found to be in substantial disagreement with the principles or policies of national DSA, or if that member is found to be consistently engaging in undemocratic, disruptive behavior, or if that member is found to be under the discipline of any self-defined democratic centralist organization, the Local may vote to expel her/him from DSA. In order for such a finding to be made, another DSA member must formally prefer written charges against the member in question to the Local Executive Committee, which shall set the date of a Local meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of two weeks before that meeting takes place. Expulsion of a member or affiliate member requires a two-thirds vote of the Local meeting. An expelled member may appeal to the National Political Committee of DSA.
+If a member is found to be in substantial disagreement with the principles or policies of national DSA, or if that member is found to be consistently engaging in undemocratic, disruptive behavior, or if that member is found to be under the discipline of any self-defined democratic centralist organization, the Local may vote to expel her/him from DSA. In order for such a finding to be made, another DSA member must formally prefer written charges against the member in question to the Local Steering Committee, which shall set the date of a Local meeting for deliberations on the charges. The member in question must receive a copy of the written charges and notice of the meeting a minimum of two weeks before that meeting takes place. Expulsion of a member or affiliate member requires a two-thirds vote of the Local meeting. An expelled member may appeal to the National Political Committee of DSA. 
 
 ## Voting and Election Procedures.
 
@@ -181,11 +180,11 @@ DSA Sacramento will maintain an environment free of discrimination and harassmen
 
 Section 1.
 
-Bylaws can be amended as needed by a 2⁄3 majority of Voting Quorum at a General Membership Meeting with one month notice or at an annual chapter convention.
+Bylaws can be amended as needed by a 2⁄3 majority of Voting Quorum at a General Membership Meeting with 30 days notice or at an annual chapter convention.
 
 Section 2.
 
-Bylaws amendments must be signed by at least 15 members in good standing and submitted to the Executive Board or designated body 30 days before a general meeting. The Executive Board shall provide the Local membership with at least two weeks written notice of proposed amendments.
+In order to be voted in a General Membership Meeting, bylaw amendment proposals must be signed by at least 15 members in good standing and submitted to the Steering Committee or designated body 30 days for consideration. The Steering Committee shall provide the Local membership with at least two weeks written notice of proposed amendments.*
 
 ## Local Convention.
 
@@ -193,11 +192,11 @@ Section 1.
 
 The Local Convention will be the highest deliberative body of the Local to amend its structure and decide the political priorities of the Local between Local Conventions.
 
-It shall be convened once in the first 6 months of every calendar year and requires a Voting Quorum.
+It shall be convened once per every calendar year and requires a Voting Quorum.
 
 Section 2.
 
-The Executive Committee is required to facilitate an annual Local Convention[*]. All convention rules shall be written by ad hoc working group, be posted to the entire membership 30 days in advance of a Local Convention, be amendable, and require ratification by 2⁄3 majority at the commencement of the Local Convention.
+The Steering Committee is required to facilitate an annual Local Convention[*]. All convention rules shall be written by ad hoc working group, be posted to the entire membership 30 days in advance of a Local Convention, be amendable, and require ratification by 2⁄3 majority at the commencement of the Local Convention.
 
 ## Rules of the Local.
 
