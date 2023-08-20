@@ -23,7 +23,7 @@ Safe ground is not a new concept and has been utilized successfully in places li
 This ordinance does not come to us in perfection. There is a lack of clarity on the services that are required to be offered at each site. How can we be sure that these grounds are safe? There is debate on if Howard Chan, the City Manager, is the right person to drive this initiative, in addition there is a lack of metrics which define success. There is also a lack of specificity in the geodiversity of the plots to be selected outside of the mayor's directive to the City Manager to “try your best”. Even with these faults, the council voted to pass in hopes that it will quickly show signs of progress for the city.
 
 
-My Opinion: 
+**My Opinion:**
 
 After watching this debate unfold for over 6 hours, I have come to the following conclusions:
 
