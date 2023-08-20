@@ -2,7 +2,7 @@
 layout: post
 title: "Sacramento Takes A Step Towards Ending Homelessness"
 permalink: /sacramento-takes-a-step-towards-ending-homelessness/
-tag: City Council, homelessness, Howard Chan
+tag: "City Council", "homelessness", "Howard Chan"
 short_description: "Sacramento City Council passes ordinance authorizing City Manager to manage homeless locations"
 ---
 
