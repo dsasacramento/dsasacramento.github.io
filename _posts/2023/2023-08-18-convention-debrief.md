@@ -20,7 +20,7 @@ Like any other organization, SacDSA is not perfect. We still have much work to d
 
 That being said, thanks to what I saw during this awe-inspiring weekend in Chicago, I am thrilled to report that DSA is lightyears ahead of where we were at the 2017, 2019, and 2021 conventions.
 
-2017: Socialism Is Cool Again!
+**2017: Socialism Is Cool Again!**
 
 In 2017, DSA had just exploded to somewhere between 20,000 and 30,000 members after Donald Trump’s 2016 victory. At the time, we were in a state of chaotic reorganization thanks to the expansion. We were a bunch of eager young leftists taking over an organization that was once notorious for having an average membership age of 60-65 and was scoffed at by many leftists for being “zionist” and Pro-Israel. 
 
@@ -34,7 +34,7 @@ There was also the incident where one of our newly elected NPC members from 2017
 
 The point is, we were excited, but we had no fucking idea what we were doing, and because of that, drama ensued.
 
-2019: “Guys, Can We Keep The Chatter To A Minimum!?”
+**2019: “Guys, Can We Keep The Chatter To A Minimum!?”**
 By the 2019 con, it was all about the Bernie momentum. Bernie was not only poised to run in 2020 but it seemed like he was on track to win the Democratic nomination. This was why the major tier of the 2019 electoral plan oriented itself around our Democratic Socialists for Bernie campaign. The peak of this at that convention was the passing of a resolution that prohibited DSA national from endorsing any other Democrat if Bernie lost the nomination, which he did.
 
 But the tone of 2019 was much different and much more divisive than in 2017. This convention was also much less democratic than in 2017. Delegates were bombarded with bad-faith attacks by sectarians who smeared our convention chairs and used procedural nonsense to bog down progress whenever they did not get their way.
@@ -49,7 +49,7 @@ The moment has since become a right-wing meme still making rounds on Twitter and
 
 Fortunately, weed is legal in Chicago now, so for the 2023 convention, my anxiety was properly under control. Attending this convention and seeing that I could keep my cool in the face of bad-faith sectarianism was just one of the things that made the 2023 convention so healing for me.
 
-2021: F*ck You Covid
+**2021: F*ck You Covid**
 
 The 2021 convention was our first, and likely our only, all-virtual convention due to COVID. I can only say so much about this convention because 1. I was not a delegate and 2. The shift to an all-virtual meeting was a challenge for everyone involved, especially in the wake of where socialists stood in 2021.
 
@@ -57,7 +57,7 @@ Bernie lost, Biden was already president, the pandemic was taking everything fro
 
 But by 2023, we figured it out.
 
-2023: A New Hope
+**2023: A New Hope**
 
 There are some sobering realities to take away from the 2023 convention. DSA has seen a decline in membership which means a decline in dues, which means a decline in resources for both future and existing campaigns. However, despite such a decline, one saw comrades with more hope in their organization than ever before. I lost count of all the comrades I met who were attending a DSA con for the first time, and this was the one to have as their first. (Thank god they missed 2019!) 
 
@@ -83,7 +83,7 @@ On yet another personal note, I cannot praise Sara enough because when I first j
 
 I am not mincing words when I say that every single person who dares to call themselves a Sac DSA member should be very proud of their delegation.
 
-The World To Win
+**The World To Win**
 
 There is only one thing about this convention that makes me sad, and that is the fact that not everyone from SacDSA could be there. If we had all been there, so many in this organization would have had their faith restored, not just in DSA but in the concept of organizing. My only hope now is that the rest of the delegates and I can bring this energy to every meeting, every event, every campaign, and every Mutual Aid Monday!
 
@@ -97,4 +97,4 @@ So long as we stay this course and keep our heads held high and maintain a sense
 
 I have never been happier and more eager to tell everyone I know, “Why yes, I am a member of Sacramento DSA. Allow me to introduce you to my comrades.”
 
-James J. Jackson is a member of the SacDSA steering committee and served as its co-chair in the 2019-2020 term.  He has written for Sac News and Review, the Sac DSA blog, Democratic Left, and Socialist Forum.  He also writes fiction, poetry, and journalism under the pen name Jimbo Jax.
+*James J. Jackson is a member of the SacDSA steering committee and served as its co-chair in the 2019-2020 term.  He has written for Sac News and Review, the Sac DSA blog, Democratic Left, and Socialist Forum.  He also writes fiction, poetry, and journalism under the pen name Jimbo Jax.*
