@@ -11,10 +11,7 @@ tag: SacDSA, Sacramento DSA, Local Convention, 2023, bylaw amendments
 short_description: "SacDSA member thoughts on proposed bylaw amendments"
 
 ---
-
-Procedural Overhead: On An Upcoming Debate at Sacramento DSA Local Convention 2023
-
-For reference, see the 2023 SacDSA Local Convention packet - https://docs.google.com/document/d/1DWZuXSlkLUfKhENPAq6e9DwhCfBt2w__JJxkl2seF1E/edit?usp=sharing.
+For reference, see the 2023 SacDSA Local Convention packet - https://docs.google.com/document/d/1DWZuXSlkLUfKhENPAq6e9DwhCfBt2w__JJxkl2seF1E/edit?usp=sharing
 
 By Benjamin Arriaga
 
