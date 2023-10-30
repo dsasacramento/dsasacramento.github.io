@@ -66,7 +66,7 @@ The Communications Director is charged with forming a Communications Standing Co
 The Communications Standing Committee handles all internal and external communications. The Communications Standing Committee is expected to direct all relevant media inquiries to the appropriate campaign and/or committee leadership. The Communications Director is charged with performing or delegating all external communications tasks including but not limited to monthly newsletters, mass emails, graphics creation, and social media management. 
 
 #### Organizer.
-The Organizer is charged with sponsoring and assuming ultimate responsibility for the actions and operations of select committees. The Organizer is a liaison between the Steering Committee and select committees assigned to them. Four Organizers will be elected to the Steering Committee. 
+Four Organizers will be elected to the Steering Committee. 
 
 All organizers will have the shared duties of hosting a quarterly New Member Orientation, and recruiting members to help execute the following tasks: 
 
@@ -117,22 +117,39 @@ Following the presentation, the General Membership will vote to ratify the propo
 
 #### Committee Operations
 
-Committee leadership must notify their assigned Organizer of all committee business. Committee leadership must invite their assigned Organizer to all committee meetings and events. Each Committee will establish and monitor a committee email. 
+Committee Chairs are required to make sure notes are taken at every meeting and sent to the SacDSA email within 24 hours after the meeting’s conclusion. Committee Chairs are also required to take attendance at each meeting, including the names of attendees, and report said attendance in their notes. Committees that do not provide the steering committee with this information regularly assume the risk of being dismantled via a vote by the General Membership.
+
+Committees that report having 3 or less members attend after three consecutive meetings are at risk of facing a proposal for dismantling by the steering committee. The steering committee shall meet with the committee’s chair(s) and review the committee’s status before introducing any such proposal. If a proposal to terminate is approved by a vote of the General Membership, the committee is officially terminated. Terminated committees shall have their budgets redistributed proportionally to the still existing committees.
+
+Each Committee will establish and monitor a committee email. 
 
 Committee leadership will send one representative per month to a Steering Committee meeting. The committee representative will communicate with the Steering Committee and other committee representatives about their committee's upcoming events and what resources or support they require from the broader Chapter.
 
 Committees must bring all committee expenditures and campaigns before the Steering Committee, so such actions may be scheduled for the General Membership Meeting. 
 
-Committees must seek the approval of the General Membership for all campaigns. Committees must report all actions and campaigns to the Media Committee for publicity. 
+Committees must seek the approval of the General Membership for all campaigns. Committee chairs must report all events and campaigns to the Chapter's Communciation Director for publicity. 
 
 In the event that a committee faces a time-sensitive motion that cannot be brought before the General Membership before action is required, that committee may bring the motion before the Steering Committee for approval by consent. 
 
 A vote of the General Membership may dismantle committees, brought about by: recommendation of the Steering Committee; or recommendation by any General Member, for reasons such as violating DSA Sacramento bylaws. Committees may also self-dismantle at any time. 
 
+The Chapter's Secretary or Communications Director will be responsible for deleting defunct committees from the chapter-wide communications applications. 
+
 Committees are expected to help manage press inquiries regarding committee business. 
 
 Committees must conduct yearly, publicized elections. Elections should be publicized at minimum of 2 weeks in advance. 
 
+#### Committee Membership
+
+Committee membership in SacDSA shall be defined in at least one of these three ways;
+
+1.) You were one of the three five  signatories supporting the committee’s formation and are regularly attending committee meetings as indicated in meeting notes.
+2.) You have attended two consecutive committee meetings and your attendance is recorded in the committee’s reported notes.
+3.) You are the elected co-chair(s) of the committee
+
+Only SacDSA members in good standing are allowed to call themselves committee members.
+
+There shall be no limitation on how many committees one member in good standing can join.
 
 ## Working Groups.
 
