@@ -72,7 +72,7 @@ Want to learn about and get support in building power in your workplace to make
 real change for you and your co-workers? Join the Labor Committee at our next
 meeting.
 
-* Co-Chair(s): Kyle L. and Aaron Z.
+* Co-Chair(s): Kyle L. and Corey C.
 * Contact: admin@sacdsa.org
 
 ### Mutual Aid Committee
@@ -97,7 +97,7 @@ relationship, not a material one based on hierarchy. We also believe it is
 important to empower DSA members and members of the local community to make
 meaningful systemic change (outside of existing systems).
 
-* Co-Chair(s): Chelsea F. and Paul A.
+* Co-Chair(s): Julia H. and Devan L.
 * Contact: mutualaid@sacdsa.org
 
 ### Racial Solidarity Committee
@@ -124,5 +124,5 @@ and action. The Socialist Education Committee creates events and materials to
 aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
 
-* Co-Chair(s): David R. and Connie
+* Co-Chair(s): David R. and Connie R.
 * Contact: admin@sacdsa.org
