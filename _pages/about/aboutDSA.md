@@ -4,27 +4,15 @@ title: "About DSA"
 permalink: /about/dsa
 ---
 ## Learn about our organization
+Capitalism is a system designed by the owning class to exploit the rest of us for their own profit. We must replace it with democratic socialism, a system where ordinary people have a real voice in our workplaces, neighborhoods, and society.
 
-The Democratic Socialists of America (DSA) is the largest socialist organization
-in the United States. DSA's members are building progressive movements for
-social change while establishing an openly democratic socialist presence in
-American communities and politics.
+We believe there are many avenues that feed into the democratic road to socialism. Our vision pushes further than historic social democracy and leaves behind authoritarian visions of socialism in the dustbin of history.
 
-At the root of our socialism is a profound commitment to democracy, as means and
-end. Because we are unlikely to see an immediate end to capitalism tomorrow, DSA
-fights for reforms today that will weaken the power of corporations and increase
-the power of working people. For example, we support reforms that
+We want a democracy that creates space for us all to flourish not just survive and answers the fundamental questions of our lives with the input of all. We want to collectively own the key economic drivers that dominate our lives, such as energy production and transportation. We want the multiracial working class united in solidarity instead of divided by fear. We want to win “radical” reforms like single-payer Medicare for All, defunding the police/refunding communities, the Green New Deal, and more as a transition to a freer, more just life. 
 
-* Decrease the influence of money in politics
-* Empower ordinary people in workplaces and the economy
-* Redistribute wealth and decommodify basic needs
-* Restructure gender and cultural relationships to be more equitable
+We want a democracy powered by everyday people. The capitalist class tells us we are powerless, but together we can take back control.
 
-We are committed to democracy as not simply one of our political values but our
-means of restructuring society. Our vision is of a society in which people have
-a real voice in the choices and relationships that affect the entirety of our
-lives. We call this vision democratic socialism — a vision of a more free,
-democratic, and humane society.
+Join DSA to further the cause of democratic socialism in Sacramento and across the nation!
 
 #Further Reading
 * [DSA Constitution](https://www.dsausa.org/about-us/constitution/)
