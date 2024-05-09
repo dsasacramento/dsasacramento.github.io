@@ -11,7 +11,7 @@ that are important to them.
 
 ### Electoral Committee
 
-* Co-Chair(s): TBA
+* Co-Chair(s): Margot
 * Contact: admin@sacdsa.org
 
 ### Healthcare Committee
@@ -125,4 +125,9 @@ aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
 
 * Co-Chair(s): David R. and Connie R.
+* Contact: admin@sacdsa.org
+
+### Trans Rights and Bodily Autonomy
+
+* Co-Chair(s): Emily and Alexandra
 * Contact: admin@sacdsa.org
