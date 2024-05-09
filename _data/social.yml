@@ -4,16 +4,18 @@ facebook: &facebook
   url: "https://www.facebook.com/DSA.Sacramento"
   username: DSA.Sacramento
 
+<!-- 
 twitter: &twitter
   label: "Twitter"
   icon: "fab fa-fw fa-twitter-square"
   url: "https://twitter.com/DSASac"
   username: DSASac
+  -->
 
 instagram: &instagram
   label: "Instagram"
   icon: "fab fa-fw fa-instagram"
-  url: "https://www.instagram.com/dsasac"
+  url: "https://www.instagram.com/sac_dsa/"
   username: dsasac
 
 github: &youtube
