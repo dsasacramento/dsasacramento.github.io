@@ -4,14 +4,6 @@ facebook: &facebook
   url: "https://www.facebook.com/DSA.Sacramento"
   username: DSA.Sacramento
 
-<!-- 
-twitter: &twitter
-  label: "Twitter"
-  icon: "fab fa-fw fa-twitter-square"
-  url: "https://twitter.com/Sac_DSA"
-  username: DSASac
-  -->
-
 instagram: &instagram
   label: "Instagram"
   icon: "fab fa-fw fa-instagram"
