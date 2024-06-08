@@ -11,8 +11,10 @@ that are important to them.
 
 ### Electoral Committee
 
+We're working to bring socialists into office. Help us elect our endorsed candidate Dr. Flo to office in November.
+
 * Co-Chair(s): TBA
-* Contact: admin@sacdsa.org
+
 
 ### Healthcare Committee
 
@@ -25,29 +27,6 @@ creating memes, holding town halls, meeting with legislators, and doing actions
 at their offices.
 
 * Co-Chair(s): Shirley T. and Jenny O.
-* Contact: admin@sacdsa.org
-
-### Housing Committee
-
-This committee was started to help protect renters by fighting for rent control
-and just cause evictions, to do advocacy on housing policy, work on eliminating
-homelessness, and to ensure that housing is accessible and available to
-everyone.
-
-The rent control campaign in Sacramento is a collective effort between DSA,
-ACCE, Tenants Together and other organizations. We are working to help renters
-in Sacramento become activists in order to get the city to place protections for
-those for renters. We want to ensure that no one loses their home because of
-unfair evictions or rent increase.
-
-Housing Now is a coalition of statewide organizations that advocates for housing
-policies that affect everyone in the state. Issues include legislation on tenant
-protections, repealing laws that hurt tenants, and fighting laws that give
-landlord more power. The groups also help others with campaigns to get rent
-control or just cause eviction laws in their city.
-
-* Co-Chair(s): TBA
-* Contact: admin@sacdsa.org
 
 ### International Committee
 
@@ -64,7 +43,6 @@ to reject imperialism in all its forms as a barrier to the advancement of
 socialism.
 
 * Co-Chair(s): David M.
-* Contact: admin@sacdsa.org
 
 ### Labor Committee
 
@@ -73,7 +51,7 @@ real change for you and your co-workers? Join the Labor Committee at our next
 meeting.
 
 * Co-Chair(s): Kyle L. and Corey C.
-* Contact: admin@sacdsa.org
+
 
 ### Mutual Aid Committee
 
@@ -100,23 +78,6 @@ meaningful systemic change (outside of existing systems).
 * Co-Chair(s): Julia H. and Devan L.
 * Contact: mutualaid@sacdsa.org
 
-### Racial Solidarity Committee
-
-This committee first recognizes the fundamental lesson from the history of
-earlier populist and leftist efforts to make a more democratic society: that
-class-based struggle cannot be waged for long while ignoring race and that
-race-based struggle cannot be waged for long while ignoring class. Raising both
-race and class consciousness is necessary for a democratic socialist movement to
-unfold from place-based communities. Only then can organized communities
-overcome the ideological and material continuation of institutional-structural
-white supremacy in both U.S. civil society and its social geography. Our
-committee focuses on dialogue, education, coalition work, and direct action that
-advances multiracial solidarity as a crucial prerequisite to a united working
-class. Out of many colors, one class.
-
-* Co-Chair(s): TBA
-* Contact: admin@sacdsa.org
-
 ### Socialist Education Committee
 
 One of the defining features of socialism is the praxis, the meeting of theory
@@ -125,4 +86,10 @@ aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
 
 * Co-Chair(s): David R. and Connie R.
-* Contact: admin@sacdsa.org
+
+### Trans Rights and Bodily Autonomy
+
+The mission of the Trans Rights and Bodily Autonomy Committee is to build solidarity across the gender, racial, and socioeconomic divisions of Sacramento while challenging instead of reifying those divisions; develop a praxis informed by those most impacted to fight for collective liberation; and collaborate with other affinity groups, committees, and organizations to coordinate actions that challenge the existing power structures and fight for the bodily autonomy of all people.
+
+* Co-Chairs: Emily and Alexandra
+
