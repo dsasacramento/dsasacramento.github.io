@@ -11,7 +11,7 @@ that are important to them.
 
 ### Electoral Committee
 
-We're working to bring socialists into office. Help us elect our endorsed candidate Dr. Flo to office in November.
+We're working to bring socialists into office. Help us elect our endorsed candidate Dr. Flo for mayor of Sacramento.
 
 * Co-Chair(s): TBA
 
