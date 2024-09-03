@@ -12,7 +12,6 @@ that are important to them.
 ### Electoral Committee
 
 * Co-Chair(s): Margot
-* Contact: admin@sacdsa.org
 
 ### Healthcare Committee
 
@@ -25,7 +24,6 @@ creating memes, holding town halls, meeting with legislators, and doing actions
 at their offices.
 
 * Co-Chair(s): Shirley T. and Jenny O.
-* Contact: admin@sacdsa.org
 
 ### International Committee
 
@@ -42,7 +40,6 @@ to reject imperialism in all its forms as a barrier to the advancement of
 socialism.
 
 * Co-Chair(s): David M.
-* Contact: admin@sacdsa.org
 
 ### Labor Committee
 
