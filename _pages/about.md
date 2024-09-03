@@ -15,7 +15,7 @@ Join DSA to further the cause of democratic socialism in your town and across th
 
 We are funded and managed by our members. Our chapter structure consists of an **Executive Board** made up of seven elected officers and numerous **Committees** focused on various types of work both internal and external. We also have a yearly **Local Convention** where we vote on resolutions and go over our Chapter Report. You can find Sacramento DSA's [organizational chart here](https://drive.google.com/file/d/19j9ejAy1KFNysQywSV6ulrY34prFFloY/view?usp=sharing).
 
-The simplest way to get involved is to [check our calendar](https://calendar.google.com/calendar/embed?src=dsasacramento%40gmail.com&ctz=America%2FLos_Angeles) or your email for the **monthly newsletter** and attend any meeting or event that strikes your interest. Be sure to add [newsletter@sacdsa.org](mailto:newsletter@sacdsa.org) to your contacts, and drag any emails from us in your "Promotions" or "Spam" folders to your main inbox to make sure you get them every week!
+The simplest way to get involved is to [check our calendar](https://calendar.google.com/calendar/embed?src=dsasacramento%40gmail.com&ctz=America%2FLos_Angeles) or your email for the **monthly newsletter** and attend any meeting or event that strikes your interest. Be sure to add [info+sacramento-dsa-info@email.actionnetwork.org](mailto:info+sacramento-dsa-info@email.actionnetwork.org) to your contacts, and drag any emails from us in your "Promotions" or "Spam" folders to your main inbox to make sure you get them every week!
 
 You can also stay in the loop by checking out our [blog](https://sacdsa.org/blog).
 
