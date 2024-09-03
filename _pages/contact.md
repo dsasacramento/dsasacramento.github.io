@@ -12,5 +12,3 @@ Reach out to us in the following ways
   - [Facebook]({{site.data.social.facebook.url}})
   - [Twitter]({{site.data.social.twitter.url}})
   - [Instagram]({{site.data.social.instagram.url}})
-
-For press inquiries, please contact <{{site.data.social.pressEmail.url}}>.
