@@ -3,6 +3,10 @@ layout: page
 title: "Resources"
 permalink: /resources/
 ---
+#### Voter Guide
+
+[Read our Voter Guide for the 2024 General Election](/voter-guide-2024.pdf)
+
 #### New Member Handbook
 
 New to Sacramento DSA? Learn about who we are, how we work, and how to plug in.
