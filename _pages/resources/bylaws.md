@@ -220,3 +220,43 @@ The Steering Committee is required to facilitate an annual Local Convention[*]. 
 The Rules contained in Robert’s Rules of Order, Newly Revised, shall govern this Local in cases to which they are applicable and in which they are not inconsistent with these Bylaws. Consensus decision-making is desirable where feasible, but meetings must submit to Robert’s Rules of Order upon the request of a member.
 
 Any action taken by an officer or member of the Local in contravention of these Bylaws is null and void.
+
+## Chapter Electoral Endorsements.
+
+All of the chapter’s electoral endorsements, whether they are for a candidate or a ballot measure campaign, must be approved through a vote by the membership.  
+
+Endorsements shall only be approved by a 2⁄3 majority vote of a quorum of 5% of the chapter’s general membership.
+
+The process for considering a candidate for chapter endorsement shall follow the following steps.
+
+1. The candidate (or an appropriate representative of the candidate), or a member in good standing representing a ballot measure campaign, shall contact the steering committee to request a vote for the chapter endorsement.
+1.  Either one or both co-chairs shall be in contact with the candidate or representative. The co-chair(s) shall send the candidate our chapter’s endorsement questionnaire.  
+1. A candidate seeking our endorsement must return their questionnaire no later than 6 months before the date of their election to be considered for a chapter endorsement.  
+1. Upon receiving the completed candidate questionnaire, a forum conducted by the chapter’s electoral committee open to the entire chapter membership shall take place with the candidate no later than 5 months before the election date.  If SacDSA’s electoral committee cannot fulfill this duty, this task shall be deferred to the steering committee.
+1. Following the forum, the chapter’s electoral committee shall vote on a recommendation for the endorsement.  Following the vote, a recommendation either in favor or against endorsement shall be written by representatives of the electoral committee for the membership to review.  If the committee cannot come to a united consensus, then both the cases for and against the endorsement must be written into the report. If SacDSA’s electoral committee cannot fulfill this duty, these tasks shall be deferred to the steering committee.
+1. The report from the forum shall be presented to the membership at least 5 months before the election date for the members to vote on.  The report shall be presented either during a general membership meeting or online via email depending on the timeframe between the forum and election.  If quorum is met, the endorsement can be voted on at the general membership meeting.  In cases where quorum is not met or if postponing a vote to a general membership meeting would push past the deadline, the vote shall take place online via opavote.
+1. Online votes must remain open until the 5% quorum for participation is reached so long as it does not conflict with the 5 month deadline.  If quorum is not met before the appropriate deadline, the motion for the endorsement fails.
+
+In cases where a member(s) is seeking our endorsement for a ballot measure campaign, the member shall follow the following steps:
+
+1. The member(s) shall draft a resolution about the campaign for the membership to read that clearly illustrates the issues the measure will address, including:
+    1. why the issue aligns with SacDSA’s priorities
+    1. what labor the chapter is expected to provide
+    1. an estimate of any anticipated financial expenses the chapter might face by participating in the campaign.
+1. The resolution shall be introduced to the membership no later than 6 months before the measure’s election date.
+1. The member(s) shall present the resolution at the soonest general membership meeting, or if time does not permit a special forum will be organized in the same manner as a candidate forum. If SacDSA’s electoral committee cannot fulfill this duty, this task shall be deferred to the steering committee.
+1. If quorum is met at the general membership meeting, the endorsement can be voted on.  In cases where quorum is not met, the vote shall take place via online polls.
+1. Online votes must remain open until the 5% quorum for participation is reached.
+1. Any member(s) who introduces a resolution to endorse a ballot measure campaign is knowingly taking on full responsibility as our chapter representative(s) for that campaign and shall report to the general membership with regular updates.  If the member is not willing or able to act as the chapter representative, they must find one upon introduction of the resolution for a vote.
+
+If the chapter votes to make an endorsement, this means the chapter’s general membership is in agreement that the chapter shall:
+
+1. Provide some form of volunteer labor for the campaign such as sending canvassers, phone bankers, text bankers, at large committee volunteers, host fundraisers, host canvassing events, or anything else that is agreed upon by the membership at the time of the endorsement vote.
+1. Decide whether the chapter’s endorsement will take the form of an Independent Expenditure (IE) Campaign or a Coordinated Campaign (CC).[^1]
+1. Develop a relationship with the endorsed candidate, staffers, and/or representatives of a ballot measure campaign that will continue after the election.
+1. Give priority consideration to endorsements for candidates who are members in good standing, provided the member has followed the procedure laid out above.
+1. Understand that SacDSA endorsements are not just symbolic gestures, but are physical and potentially financial commitments we make as a chapter that will require the use of chapter resources.
+
+If a candidate or campaign is exposed for doing anything antithetical to DSA’s values, the steering committee is within its right to call a special meeting of the general membership to vote on retracting the endorsement.  Endorsement retractions must meet the same voting quorums listed above and be conducted either in general meetings or online.
+
+[^1]: An IE means we as a chapter would run our own campaign for the candidate or measure and have less restrictions on the amounts we can spend on the campaign, but could legally not coordinate with the main campaign and would require more intense accounting of our campaign expenses and donations to avoid legal complications.  A CC is a campaign where we are in direct contact with the main campaign and would be limited to approximately $5000 in donations per election cycle but require less legal oversight for campaign donations and expenses.
