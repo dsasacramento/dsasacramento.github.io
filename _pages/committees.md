@@ -15,8 +15,6 @@ We're fighting for the working class at the ballot box. In 2024, help us elect
 our endorsed candidate Dr. Flo for mayor of Sacramento, and help us fight to pass
 Prop 33 and Prop 5 to expand rent control and affordable housing projects in California.
 
-* Co-Chair(s): TBA
-
 
 ### Healthcare Committee
 
@@ -27,8 +25,6 @@ type system that covers everybody in the United States with no copays or
 deductibles. We have been knocking on doors, tabling at farmers’ markets,
 creating memes, holding town halls, meeting with legislators, and doing actions
 at their offices.
-
-* Co-Chair(s): Shirley T. and Jenny O.
 
 ### International Committee
 
@@ -44,16 +40,11 @@ working class and anti-colonial struggles for self-determination abroad, and 3.
 to reject imperialism in all its forms as a barrier to the advancement of
 socialism.
 
-* Co-Chair(s): David M.
-
 ### Labor Committee
 
 Want to learn about and get support in building power in your workplace to make
 real change for you and your co-workers? Join the Labor Committee at our next
 meeting.
-
-* Co-Chair(s): Kyle L. and Corey C.
-
 
 ### Mutual Aid Committee
 
@@ -77,7 +68,6 @@ relationship, not a material one based on hierarchy. We also believe it is
 important to empower DSA members and members of the local community to make
 meaningful systemic change (outside of existing systems).
 
-* Co-Chair(s): Julia H. and Devan L.
 * Contact: mutualaid@sacdsa.org
 
 ### Socialist Education Committee
@@ -87,11 +77,8 @@ and action. The Socialist Education Committee creates events and materials to
 aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
 
-* Co-Chair(s): David R. and Connie R.
-
 ### Trans Rights and Bodily Autonomy Committee
 
 The mission of the Trans Rights and Bodily Autonomy Committee is to build solidarity across the gender, racial, and socioeconomic divisions of Sacramento while challenging instead of reifying those divisions; develop a praxis informed by those most impacted to fight for collective liberation; and collaborate with other affinity groups, committees, and organizations to coordinate actions that challenge the existing power structures and fight for the bodily autonomy of all people.
 
-* Co-Chairs: Emily and Alexandra
 
