@@ -10,6 +10,12 @@ instagram: &instagram
   url: "https://www.instagram.com/sac_dsa/"
   username: dsasac
 
+bluesky: &bluesky
+  label: "BlueSky"
+  icon: "fab fa-fw fa-bluesky"
+  url: "https://bsky.app/profile/sacdsa.bsky.social"
+  username: sacdsa.bsky.social
+  
 github: &youtube
   label: "YouTube"
   icon: "fab fa-fw fa-youtube"
@@ -28,7 +34,7 @@ email: &email
 # This list appears in the footer of every page
 footer:
   - *facebook
-  - *twitter
+  - *bluesky
   - *instagram
   - *youtube
   - *email
@@ -36,10 +42,10 @@ footer:
 # This list appears in the dropdown of every blog post
 follow:
   - *facebook
-  - *twitter
+  - *bluesky
   - *instagram
 
 # I don't see where this gets used yet
 share:
   - *facebook
-  - *twitter
+  - *bluesky
