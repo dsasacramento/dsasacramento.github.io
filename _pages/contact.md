@@ -10,5 +10,5 @@ Got a question?
 Reach out to us in the following ways
   - <{{site.data.social.email.url}}>
   - [Facebook]({{site.data.social.facebook.url}})
-  - [Twitter]({{site.data.social.twitter.url}})
+  - [BlueSky]({{site.data.social.bluesky.url}})
   - [Instagram]({{site.data.social.instagram.url}})
