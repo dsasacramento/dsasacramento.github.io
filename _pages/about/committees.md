@@ -10,8 +10,15 @@ addressing the needs of the community and allowing the members to work on issues
 that are important to them.
 
 ### Electoral Committee
+The purpose of SacDSA's Electoral Committee is to build coalitions to support 
+DSA-endorsed candidates and ballot initiatives.  
 
-* Co-Chair(s): Margot
+Our short term focus is to identify and prioritize centers of powerin the 
+community such as schools, parks, libraries, agencies etc. and build 
+from those centers of power.
+
+Our long term focus is to develop a comprehensive candidate recruitment and assesment process in accordance with SacDSA's politics and bylaws.
+
 
 ### Healthcare Committee
 
@@ -23,7 +30,6 @@ deductibles. We have been knocking on doors, tabling at farmers’ markets,
 creating memes, holding town halls, meeting with legislators, and doing actions
 at their offices.
 
-* Co-Chair(s): Shirley T. and Jenny O.
 
 ### International Committee
 
@@ -39,7 +45,6 @@ working class and anti-colonial struggles for self-determination abroad, and 3.
 to reject imperialism in all its forms as a barrier to the advancement of
 socialism.
 
-* Co-Chair(s): David M.
 
 ### Labor Committee
 
@@ -47,7 +52,7 @@ Want to learn about and get support in building power in your workplace to make
 real change for you and your co-workers? Join the Labor Committee at our next
 meeting.
 
-* Co-Chair(s): Kyle L. and Corey C.
+
 
 ### Mutual Aid Committee
 
@@ -71,8 +76,6 @@ relationship, not a material one based on hierarchy. We also believe it is
 important to empower DSA members and members of the local community to make
 meaningful systemic change (outside of existing systems).
 
-* Co-Chair(s): Julia H. and Devan L.
-* Contact: mutualaid@sacdsa.org
 
 ### Socialist Education Committee
 
@@ -81,10 +84,7 @@ and action. The Socialist Education Committee creates events and materials to
 aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
 
-* Co-Chair(s): David R. and Connie R.
-
 
 ### Trans Rights and Bodily Autonomy
 The mission of the Trans Rights and Bodily Autonomy Committee is to build solidarity across the gender, racial, and socioeconomic divisions of Sacramento while challenging instead of reifying those divisions; develop a praxis informed by those most impacted to fight for collective liberation; and collaborate with other affinity groups, committees, and organizations to coordinate actions that challenge the existing power structures and fight for the bodily autonomy of all people.
-* Co-Chair: Emily and Alexandra
 
