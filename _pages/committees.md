@@ -11,9 +11,14 @@ that are important to them.
 
 ### Electoral Committee
 
-We're fighting for the working class at the ballot box. In 2024, help us elect
-our endorsed candidate Dr. Flo for mayor of Sacramento, and help us fight to pass
-Prop 33 and Prop 5 to expand rent control and affordable housing projects in California.
+The purpose of SacDSA's Electoral Committee is to build coalitions to support 
+DSA-endorsed candidates and ballot initiatives.  
+
+Our short term focus is to identify and prioritize centers of powerin the 
+community such as schools, parks, libraries, agencies etc. and build 
+from those centers of power.
+
+Our long term focus is to develop a comprehensive candidate recruitment and assesment process in accordance with SacDSA's politics and bylaws.
 
 
 ### Healthcare Committee
