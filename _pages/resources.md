@@ -7,11 +7,7 @@ permalink: /resources/
 
 [Read our Voter Guide for the 2024 General Election](/voter-guide-2024.pdf)
 
-#### New Member Handbook
-
-New to Sacramento DSA? Learn about who we are, how we work, and how to plug in.
-
-*New Member Handbook needs to be updated. Check back soon!*
+#### New Member Resources
 
 [Read the Guidelines for Respectful Discussion](/resources/respectful-discussion)
 
@@ -36,7 +32,6 @@ If you are experiencing harassment or abusive behavior from a member you can rep
 
  - [About DSA](/about/dsa)
  - [Socialist readings](https://www.eastbaydsa.org/resources/readings)
- - [The Stacks - a political education newsletter](https://www.dsausa.org/stacks)
  - [Socialist Forum - a quarterly publication of essays](https://socialistforum.dsausa.org)
 
 #### Other DSA California Chapters
