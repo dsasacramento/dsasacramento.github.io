@@ -75,6 +75,10 @@ meaningful systemic change (outside of existing systems).
 
 * Contact: mutualaid@sacdsa.org
 
+### Racial Solidarity Committee
+
+This committee first recognizes the fundamental lesson from the history of earlier populist and leftist efforts to make a more democratic society: that class-based struggle cannot be waged for long while ignoring race and that race-based struggle cannot be waged for long while ignoring class. Raising both race and class consciousness is necessary for a democratic socialist movement to unfold from place-based communities. Only then can organized communities overcome the ideological and material continuation of institutional-structural white supremacy in both U.S. civil society and its social geography. Our committee focuses on dialogue, education, coalition work, and direct action that advances multiracial solidarity as a crucial prerequisite to a united working class. Out of many colors, one class.
+
 ### Socialist Education Committee
 
 One of the defining features of socialism is the praxis, the meeting of theory
