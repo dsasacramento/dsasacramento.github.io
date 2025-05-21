@@ -3,7 +3,6 @@ layout: page
 title: "SacDSA's Mission Statement"
 permalink: /resources/mission-statement/
 ---
-Sac DSA 2025 Mission Statement
 ## Introduction
 During the Sac DSA Local Convention, we engaged in an open forum discussing the direction of our chapter. This forum allowed all present Sac DSA members to hear and voice their thoughts about our chapter’s priorities for the next year.
 To continue our dedication as an antifascist organization and organizing all intersections of the working class, Sac DSA pledges this to be our mission:
