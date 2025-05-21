@@ -31,7 +31,9 @@ If you are experiencing harassment or abusive behavior from a member you can rep
 #### Reading Material
 
  [About DSA](/about/dsa)
+ 
  [Socialist readings](https://www.eastbaydsa.org/resources/readings)
+ 
  [Socialist Forum - a quarterly publication of essays](https://socialistforum.dsausa.org)
 
 #### Other DSA California Chapters
