@@ -13,6 +13,10 @@ permalink: /resources/
 
 [Read the Slack Guide](/resources/slack-guide)
 
+#### Chapter Mission
+
+[Read our chapter's Mission Statement](resources/mission-statement)
+
 #### Bylaws
 
 Bylaws are the basic rules that define how an organization governs itself. For Sacramento DSA, as an organization committed to democratic governance by its members, our bylaws' most important function is to establish the democratic structures through which we make decisions, carry out collective goals, and elect accountable leaders.
