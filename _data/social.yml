@@ -10,9 +10,9 @@ instagram: &instagram
   url: "https://www.instagram.com/sac_dsa/"
   username: dsasac
 
-instagram: &instagram
-  label: "Instagram"
-  icon: "fab fa-fw fa-instagram"
+blogger: &blogger
+  label: "Blogger"
+  icon: "fab fa-fw fa-blogger-b"
   url: "https://www.instagram.com/sac_dsa/"
   username: dsasac
   
