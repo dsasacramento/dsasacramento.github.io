@@ -15,7 +15,7 @@ permalink: /resources/
 
 #### Chapter Mission
 
-[Read our chapter's Mission Statement](resources/mission-statement)
+[Read our chapter's Mission Statement](/resources/mission-statement)
 
 #### Bylaws
 
