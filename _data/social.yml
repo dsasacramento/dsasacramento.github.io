@@ -10,11 +10,11 @@ instagram: &instagram
   url: "https://www.instagram.com/sac_dsa/"
   username: dsasac
 
-blogger: &blogger
-  label: "Blogger"
-  icon: "fab fa-fw fa-blogger"
-  url: "https://www.instagram.com/sac_dsa/"
-  username: dsasac
+bluesky: &bluesky
+  label: "BlueSky"
+  icon: "fab fa-bluesky"
+  url: "https://bsky.app/profile/sacdsa,bsky.social"
+  username: sacdsa.bsky.social
   
 #bluesky: &bluesky
 #  label: "BlueSky"
