@@ -12,7 +12,7 @@ instagram: &instagram
 
 bluesky: &bluesky
   label: "BlueSky"
-  icon: "fab fa-fw fa-bluesky"
+  icon: "fab fa-bluesky"
   url: "https://bsky.app/profile/sacdsa.bsky.social"
   username: sacdsa.bsky.social
   
