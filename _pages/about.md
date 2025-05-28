@@ -5,11 +5,11 @@ permalink: /about/
 ---
 Sacramento DSA is a chapter of the Democratic Socialists of America, an organization dedicated to educating and organizing the global working class to move beyond capitalism. Capitalism is a system designed by the owning class to exploit the labor of the working class for profit. We must replace it with democratic socialism, a system where the people have power, votes, and control in our workplaces, neighborhoods, and society.
 
-We believe there are many avenues that feed into the democratic road to socialism. But ultimately, we believe in a purely democratized society and all aspects of power should be organized from the bottom on up, not from the top down.
+We believe there are many avenues that feed into the democratic road to socialism. Ultimately, we believe in a purely democratized society and all aspects of power should be organized from the bottom on up, not from the top down.
 
-Our democracy is one that creates space for us all to flourish, not just survive. We believe the people should collectively own the key economic drivers that dominate our lives, including energy production and transportation, bringing about a world where the multiracial working class united in solidarity instead of divided by fear. 
+Our democracy is one that creates space for us all to flourish, not just survive. We believe the people should collectively own the key economic drivers that dominate our lives, including energy production and transportation, and bring about a world where the multiracial working class are united in solidarity never divided by fear. 
 
-We want a democracy powered by everyday people. The capitalist class tells us we are powerless, but together we can take back control.  This is why we fight for Medicare-For-All, a Green New Deal, trans rights and bodily autonomy for all, stronger and more democratic unions, and so much more.
+We want a democracy powered by everyday people. The capitalists say we are powerless, but together we can take back control.  This is why we fight for Medicare-For-All, a Green New Deal, trans rights and bodily autonomy for all, strong democratic unions, and so much more.
 
 Where the capitalist state fails to meet our needs, we will always step up. This is why SacDSA puts so much time and energy into a thriving mutual aid project and works in community with other organizations to feed, clothe, and protect our neighbors.
 
