@@ -21,7 +21,7 @@ We are socialists because we are developing a concrete strategy for achieving th
 This class structure means that there is a basic conflict of interest between those sectors with enormous economic power and the vast majority of the population. 
 
 ## Meetings.
-Sacramento DSA will hold a minimum of four General Membership Meetings annually. The General Membership will elect Local officers and may adopt an annual budget. In general, it is the highest legislative body of the Local. 
+Sacramento DSA will hold a minimum of four General Membership Meetings annually. The General Membership will elect local officers and may adopt an annual budget. In general, it is the highest legislative body of the Local. 
 
 The Steering Committee will set the agenda for General Membership Meetings. 
 
@@ -86,7 +86,7 @@ The requirement applies to each new Steering Committee, including recurring Stee
 
 ## Steering Committee.  
 
-The Steering Committee consists of two Co-Chairs, one Secretary-Treasurer, one Membership Coordinator, and three Organizers. After September 2017 Elections the Steering Committee will consist of two Co-chairs, one Secretary, one Treasurer, and three Organizers. 
+The Steering Committee consists of two Co-Chairs, one Secretary-Treasurer, one Membership Coordinator, and four Organizers. Elections the Steering Committee will consist of two Co-chairs, one Secretary, one Treasurer, and four Organizers. 
 
 The Steering Committee must hold one in-person or virtual business meeting per month. Business meetings must be publicized to the General Membership, and be open for attendance by the General Membership. An agenda should be made available to the General Membership at least 12 hours in advance. Approved notes from each Steering Committee business meeting must be made available to the General Membership following the meeting. 
 
