@@ -4,7 +4,7 @@ title: "About DSA"
 permalink: /about/dsa
 ---
 ## Learn about our organization
-Capitalism is a system designed by the owning class to exploit the rest of us for their own profit. We must replace it with democratic socialism, a system where ordinary people have a real voice in our workplaces, neighborhoods, and society.
+Capitalism is a system designed by the owning class to exploit the rest of us for profit. We must replace it with democratic socialism, a system where ordinary people have a real voice in our workplaces, neighborhoods, and society.
 
 We believe there are many avenues that feed into the democratic road to socialism. Our vision pushes further than historic social democracy and leaves behind authoritarian visions of socialism in the dustbin of history.
 
