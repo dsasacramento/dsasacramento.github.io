@@ -10,7 +10,7 @@ Slack is a group messaging app which helps keep us connected between meetings.
 
 ### How do I get added to Slack?
 
-Attend a meeting! Then talk to any Executive Board member. Any of them will be able to add you to Slack.
+Attend a meeting! Then talk to any Steering Committee member. Any of them will be able to add you to Slack.
 
 ### Important security note
 
