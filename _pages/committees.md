@@ -88,6 +88,6 @@ tools in our day-to-day organizing.
 
 ### Trans Rights and Bodily Autonomy Committee
 
-The mission of the Trans Rights and Bodily Autonomy Committee is to build solidarity across the gender, racial, and socioeconomic divisions of Sacramento while challenging instead of reifying those divisions; develop a praxis informed by those most impacted to fight for collective liberation; and collaborate with other affinity groups, committees, and organizations to coordinate actions that challenge the existing power structures and fight for the bodily autonomy of all people.
+TRBA committee merged with Mutual Aid Committee in July 2025.
 
 
