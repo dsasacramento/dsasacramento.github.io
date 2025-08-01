@@ -3,10 +3,6 @@ layout: page
 title: "Resources"
 permalink: /resources/
 ---
-#### Voter Guide
-
-[Read our Voter Guide for the 2024 General Election](/voter-guide-2024.pdf)
-
 #### New Member Resources
 
 [Read the Guidelines for Respectful Discussion](/resources/respectful-discussion)
