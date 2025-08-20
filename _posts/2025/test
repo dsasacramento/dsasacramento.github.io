@@ -1,11 +1,14 @@
 ---
+
 layout: post
+
 title: "test"
-permalink: /test/
-tag: test, test 1 2 3,
-short_description: "test"
+
+permalink: /blogtest/
+
+tag: SacDSA, Sacramento DSA, test
+
+short_description: "idk communism I guess"
+
 ---
-
-By: Karl Marx
-
-blah blah blah blah communism blah
+blah blah communism blah blah 
