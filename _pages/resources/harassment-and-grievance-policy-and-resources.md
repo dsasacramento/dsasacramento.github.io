@@ -36,7 +36,7 @@ Our local Harassment Grievance Officers are chapter members that are the designa
 Our local HGOs are:
 
 - Kyle L.
-- Thomas G.
+- Jenny O.
 
 The HGOs may also be contacted directly at
 <sacdsagrievance@gmail.com>
