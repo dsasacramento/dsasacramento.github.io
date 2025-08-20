@@ -33,17 +33,13 @@ at their offices.
 
 ### International Committee
 
-While living in the United States and acknowledging it as the most powerful
-imperialist hegemon on earth, the International Committee of Sacramento DSA
-understands the necessity of linking struggles of the U.S. working class with
-those who struggle against imperialism and the military-corporate complexes that
-benefit capitalists across the globe. This committee takes an explicit stance
-against oppressive state violence, including both police and military actions.
-The mission of this committee shall henceforth be; 1. to promote education about
-international issues, 2. to express solidarity and support with international
-working class and anti-colonial struggles for self-determination abroad, and 3.
-to reject imperialism in all its forms as a barrier to the advancement of
-socialism.
+The International Committee of Sacramento DSA is fighting to link the struggles 
+of the U.S. working class with those who struggle against imperialism 
+and capitalist power across the globe. Our work is to promote education about
+international issues and to offer solidarity and support to the international
+working class and anti-colonial struggles for self-determination abroad. 
+We fight for a free Palestine, open borders, and the liberation of all 
+indigenous peoples.
 
 ### Labor Committee
 
