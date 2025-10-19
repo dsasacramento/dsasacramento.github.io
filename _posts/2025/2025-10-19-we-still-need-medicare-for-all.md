@@ -23,7 +23,7 @@ Single-payer universal healthcare is the bare minimum of pro-working class polic
 
 However, the reality is that because of how entrenched the healthcare corporations are in our political system, too many politicians will not support it unless we build enough political power to either force them to support it or replace them. This is a long-term fight and it's going to take a deep commitment to grassroots organizing and a willingness to engage in a diversity of tactics.
 
-Sacramento DSA will continue to fight for guaranteed healthcare on both the federal and state levels. We urge readers of this blog to sign our petition, call your rep, and demand that they co-sponsor Medicare for All. Stay tuned for more blog posts on different aspects of our fight for healthcare justice over the coming months, and join our chapter's Healthcare Committee to get more involved.
+Sacramento DSA will continue to fight for guaranteed healthcare on both the federal and [state](https://www.nationalnursesunited.org/calcare) levels. We urge readers of this blog to sign our [petition](https://actionnetwork.org/petitions/support-medicare-for-all-now/), [call your rep](https://actionnetwork.org/forms/medicare-for-all-sacramento-call-log/), and demand that they co-sponsor Medicare for All. Stay tuned for more blog posts on different aspects of our fight for healthcare justice over the coming months, and join our chapter's Healthcare Committee to get more involved.
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4fa53972-4c13-4868-bb7d-3a2e5c3f9592" />
 Members of Sacramento DSA deliver letters to the offices of Reps. Doris Matsui and Ami Bera urging them to co-sponsor Medicare for All.
