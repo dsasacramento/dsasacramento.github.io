@@ -9,6 +9,7 @@ short_description: "Medicare for All Reintroduced, Matsui and Bera Still Not Co-
 By Phil K.
 
 ![image](https://github.com/user-attachments/assets/a332be52-882f-4ddc-8535-8f5238a8550f)
+DSA members and allies rally for Medicare for All outside of Rep. Doris Matsui's office in downtown Sacramento.
 
 In April of this year, Senator Bernie Sanders and Representatives Pramila Jayapal and Debbie Dingell introduced the Medicare for All Act of 2025, the legislation for single-payer universal healthcare, along with over 100 Democratic lawmakers in the House and Senate who signed on as co-sponsors. 
 
