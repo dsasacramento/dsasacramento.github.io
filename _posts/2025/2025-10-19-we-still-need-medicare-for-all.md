@@ -11,7 +11,7 @@ By Phil K.
 ![image](https://github.com/user-attachments/assets/a332be52-882f-4ddc-8535-8f5238a8550f)
 DSA members and allies rally for Medicare for All outside of Rep. Doris Matsui's office in downtown Sacramento.
 
-In April of this year, Senator Bernie Sanders and Representatives Pramila Jayapal and Debbie Dingell introduced the Medicare for All Act of 2025, the legislation for single-payer universal healthcare, along with over 100 Democratic lawmakers in the [House](url) and [Senate](https://www.congress.gov/bill/119th-congress/senate-bill/1506/cosponsors) who signed on as co-sponsors. 
+In April of this year, Senator Bernie Sanders and Representatives Pramila Jayapal and Debbie Dingell introduced the Medicare for All Act of 2025, the legislation for single-payer universal healthcare, along with over 100 Democratic lawmakers in the [House](https://www.congress.gov/bill/119th-congress/house-bill/3069/cosponsors) and [Senate](https://www.congress.gov/bill/119th-congress/senate-bill/1506/cosponsors) who signed on as co-sponsors. 
 
 Sadly, but not unexpectedly, Sacramento's two Representatives—Doris Matsui and Ami Bera—are currently NOT co-sponsors of the bill. Despite the urging of a vocal and diverse local coalition for Medicare for All, including Sacramento DSA, Matsui and Bera refused to sign on, signifying their defense of a highly inefficient, profit-based system that makes it extremely difficult for half of U.S. adults to afford healthcare when they need it.
 
