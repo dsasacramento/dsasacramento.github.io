@@ -8,7 +8,8 @@ short_description: "CalCare could pave the way for state run healthcare"
 ---
 By Lexi J
 
-
+![image](https://github.com/user-attachments/assets/60421906-ffb5-4aee-bbc7-b83f7a73eea8)
+(DSA members march for Medicare for All outside the capitol at the Cesar Chavez Day March)
 
 Health care is a human right. Gallup polls show that Americans support comprehensive reform to the US health care system, yet little has changed in recent years to adequately address the significant flaws that create confusion, unnecessary costs, and inadequate care. Bernie Sanders brought the idea of Medicare for All to the national stage during his presidential campaigns: a single-payer health care system that would deliver consistent care to all Americans. As we look at our national politics today, achieving this goal feels like a distant dream.
 
