@@ -3,7 +3,7 @@ layout: post
 title: "California Can Lead The Way To Medicare For All"
 permalink: /california-can-lead-the-way-to-medicare-for-all/
 tag: SacDSA, Sacramento DSA, Medicare-for-all, CalCare
-short_description: "CalCare could pave the way for state run healthcare"
+short_description: "CalCare could pave the way for state run healthcare across the country!"
 
 ---
 By Lexi J
