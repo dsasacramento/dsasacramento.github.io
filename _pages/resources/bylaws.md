@@ -43,7 +43,7 @@ Both Co-chairs are expected to attend all Steering Committee and General Members
 
 Co-chairs are allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting. 
 
-At least one Co-chair must be a self-identified woman. 
+Only one Co-Chair may identify as a cis man. 
 
 #### Treasurer.
 
@@ -57,13 +57,19 @@ The Treasurer chairs the Finance Standing Committee. The Finance Standing Commit
 
 The Secretary is charged with taking meeting minutes at all Steering Committee and General Membership meetings. The Secretary is charged with maintaining consistent communication with new and existing members of the local chapter. The Secretary must demonstrate this consistent communication to the Steering Committee. The Secretary maintains an organizational chart, tracks committees, and enforces bylaws. The Secretary must become a member of the Communications standing committee formed by the Communications Director. The Secretary is charged with performing or delegating all internal communications tasks including but not limited to membership texting campaigns, membership phone banking campaigns, and ballot creation. 
 
+The Secretary also has the responsibility of chairing and organizing the ad hoc Local Convention Working Group, the team responsible for planning the annual chapter convention.
+
 The Secretary is allowed two consecutive excused absences from meetings, with the expectation that they will appoint a substitute to assume their duties at the meeting. 
+
+Both the Secretary and the Communications Director shall serve as dual Editors-In-Chief of the Sacramento DSA Blog.
 
 #### Communications Director. 
 
 The Communications Director is charged with forming a Communications Standing Committee. 
 
 The Communications Standing Committee handles all internal and external communications. The Communications Standing Committee is expected to direct all relevant media inquiries to the appropriate campaign and/or committee leadership. The Communications Director is charged with performing or delegating all external communications tasks including but not limited to monthly newsletters, mass emails, graphics creation, and social media management. 
+
+Both the Secretary and the Communications Director shall serve as dual Editors-In-Chief of the Sacramento DSA Blog.
 
 #### Organizer.
 Four Organizers will be elected to the Steering Committee. 
@@ -117,7 +123,7 @@ Following the presentation, the General Membership will vote to ratify the propo
 
 #### Committee Operations
 
-Committee Chairs are required to make sure notes are taken at every meeting and sent to the SacDSA email within 24 hours after the meeting’s conclusion. Committee Chairs are also required to take attendance at each meeting, including the names of attendees, and report said attendance in their notes. Committees that do not provide the steering committee with this information regularly assume the risk of being dismantled via a vote by the General Membership.
+Committee Chairs are encouraged to take notes at every meeting.  All committee notes need to be public to members in good standing and the chapter steering committee.  Committee notes should also be stored in whatever digital drive or digital archive the chapter leadership decides to use. Committee Chairs are also responsible for making sure communication between the committee and the steering committee is frequent and transparent. Committees are allowed to self-dismantle at any time, however the chairs of dismantled committees are still responsible for alerting the membership and chapter leaders that the committee is discontinued.
 
 Committees that report having 3 or less members attend after three consecutive meetings are at risk of facing a proposal for dismantling by the steering committee. The steering committee shall meet with the committee’s chair(s) and review the committee’s status before introducing any such proposal. If a proposal to terminate is approved by a vote of the General Membership, the committee is officially terminated. Terminated committees shall have their budgets redistributed proportionally to the still existing committees.
 
@@ -214,6 +220,8 @@ It shall be convened once per every calendar year and requires a Voting Quorum.
 Section 2.
 
 The Steering Committee is required to facilitate an annual Local Convention[*]. All convention rules shall be written by ad hoc working group, be posted to the entire membership 30 days in advance of a Local Convention, be amendable, and require ratification by 2⁄3 majority at the commencement of the Local Convention.
+
+The chapter Secretary is responsible for organizing the ad hoc Local Convention Working Group.
 
 ## Rules of the Local.
 
