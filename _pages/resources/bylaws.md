@@ -272,13 +272,13 @@ If a candidate or campaign is exposed for doing anything antithetical to DSA’s
 ## Sacramento DSA Blog ##
 The Sac DSA blog shall prioritize publishing the following types of articles:
 1. Op-Eds - Opinion articles by members about DSA debates that affect our chapter’s internal organizing or external campaigns, and public issues relevant to Sacramento.
-Example: Procedural Debates at Local Convention
+Example: [Procedural Debates at Local Convention](https://sacdsa.org/SacDSA-Local-Convention-2023-debate-bylaws/)
 
 1. Steering Committee Statements - Statements made on behalf of the chapter in response to local and national emergencies.
-Example: Chapter Statement on the seating of Bret Kavanaugh to the Supreme Court
+Example: [Chapter Statement on the seating of Bret Kavanaugh to the Supreme Court](https://sacdsa.org/blog/2018/2018-10-05-sac_dsa_kavanaugh_statement/)
 
-1. Political Education - Articles about theory in line with the Sac DSA mission statement and/or the history of socialist politics.
-Example: A People of Color’s History of DSA
+1. Political Education - Articles about theory in line with the [Sac DSA mission statement](https://sacdsa.org/resources/mission-statement/) and/or the history of socialist politics.
+Example: [A People of Color’s History of DSA](https://sacdsa.org/blog/2019/2019-08-13-a-people-of-color-s-history-of-dsa-part-1-socialism-race-and-the-formation-of-dsa/)
 
 Sac DSA’s blog is also open to citizen journalism, such as exposés on local politics or police corruption or interviews about campaigns or DSA history, SO LONG AS ALL JOURNALISTIC PIECES ARE DULY FACT CHECKED! Sac DSA as a chapter will not assume legal responsibility for members who use the blog to commit libel.
 
