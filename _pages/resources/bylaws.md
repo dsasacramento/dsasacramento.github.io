@@ -223,31 +223,31 @@ Any action taken by an officer or member of the Local in contravention of these 
 
 ## Chapter Electoral Endorsements.
 
-All of the chapter’s electoral endorsements, whether they are for a candidate or a ballot measure campaign, must be approved through a vote by the membership.  
+All of the chapter’s electoral endorsements, whether they are for a candidate or a ballot measure campaign, must be approved through a vote by the membership using Opavote or other similar electronic voting platforms as approved by the Steering Committee.
 
-Endorsements shall only be approved by a 2⁄3 majority vote of a quorum of 5% of the chapter’s general membership.
+Endorsements shall only be approved by a ⅗ majority vote (or 60%) of a quorum of 5% of the chapter’s general membership.
 
 The process for considering a candidate for chapter endorsement shall follow the following steps.
+
 
 1. The candidate (or an appropriate representative of the candidate), or a member in good standing representing a ballot measure campaign, shall contact the steering committee to request a vote for the chapter endorsement.
 1.  Either one or both co-chairs shall be in contact with the candidate or representative. The co-chair(s) shall send the candidate our chapter’s endorsement questionnaire.  
 1. A candidate seeking our endorsement must return their questionnaire no later than 6 months before the date of their election to be considered for a chapter endorsement.  
 1. Upon receiving the completed candidate questionnaire, a forum conducted by the chapter’s electoral committee open to the entire chapter membership shall take place with the candidate no later than 5 months before the election date.  If SacDSA’s electoral committee cannot fulfill this duty, this task shall be deferred to the steering committee.
 1. Following the forum, the chapter’s electoral committee shall vote on a recommendation for the endorsement.  Following the vote, a recommendation either in favor or against endorsement shall be written by representatives of the electoral committee for the membership to review.  If the committee cannot come to a united consensus, then both the cases for and against the endorsement must be written into the report. If SacDSA’s electoral committee cannot fulfill this duty, these tasks shall be deferred to the steering committee.
-1. The report from the forum shall be presented to the membership at least 5 months before the election date for the members to vote on.  The report shall be presented either during a general membership meeting or online via email depending on the timeframe between the forum and election.  If quorum is met, the endorsement can be voted on at the general membership meeting.  In cases where quorum is not met or if postponing a vote to a general membership meeting would push past the deadline, the vote shall take place online via opavote.
+1. The report from the forum shall be presented to the membership at least 5 months before the election date for the members to vote on.  The report shall be presented either during a general membership meeting or online via email depending on the timeframe between the forum and election. The vote shall take place online via Opavote or other similar approved online voting platforms as needed. 
 1. Online votes must remain open until the 5% quorum for participation is reached so long as it does not conflict with the 5 month deadline.  If quorum is not met before the appropriate deadline, the motion for the endorsement fails.
 
-In cases where a member(s) is seeking our endorsement for a ballot measure campaign, the member shall follow the following steps:
+The process for considering a ballot measure for chapter endorsement shall take the following steps.
 
-1. The member(s) shall draft a resolution about the campaign for the membership to read that clearly illustrates the issues the measure will address, including:
-    1. why the issue aligns with SacDSA’s priorities
-    1. what labor the chapter is expected to provide
-    1. an estimate of any anticipated financial expenses the chapter might face by participating in the campaign.
-1. The resolution shall be introduced to the membership no later than 6 months before the measure’s election date.
-1. The member(s) shall present the resolution at the soonest general membership meeting, or if time does not permit a special forum will be organized in the same manner as a candidate forum. If SacDSA’s electoral committee cannot fulfill this duty, this task shall be deferred to the steering committee.
-1. If quorum is met at the general membership meeting, the endorsement can be voted on.  In cases where quorum is not met, the vote shall take place via online polls.
-1. Online votes must remain open until the 5% quorum for participation is reached.
-1. Any member(s) who introduces a resolution to endorse a ballot measure campaign is knowingly taking on full responsibility as our chapter representative(s) for that campaign and shall report to the general membership with regular updates.  If the member is not willing or able to act as the chapter representative, they must find one upon introduction of the resolution for a vote.
+1. A member in good standing representing a ballot measure campaign shall contact the steering committee to request a vote for the chapter endorsement no later than 6 months before the date of the election to be considered for a chapter endorsement, unless the ballot measure is a special election already endorsed by National or California DSA.
+1. Either one or both co-chairs shall be in contact with the member in good standing.
+1. Upon receiving the endorsement request for a ballot measure campaign from a member in good standing, a forum conducted by the chapter’s electoral committee open to the entire chapter membership shall take place no later than 5 months before the election, unless the ballot measure is a special election already endorsed by National or California DSA. If SacDSA’s electoral committee cannot fulfill this duty, this task shall be deferred to the steering committee.
+1. Following the forum, the chapter’s electoral committee shall vote on a recommendation for the endorsement. Following the vote, a recommendation either in favor or against endorsement shall be written by representatives of the electoral committee for the membership to review. If the committee cannot come to a united consensus, then both the cases for and against the endorsement must be written into the report. If SacDSA’s electoral committee cannot fulfill this duty, these tasks shall be deferred to the steering committee.
+1. The report from the forum shall be presented to the membership at least 5 months before the election date for the members to vote, excluding special elections already endorsed by National or California DSA. 
+1. The report shall be presented either during a general membership meeting or online via email depending on the timeframe between the forum and election. A vote shall take place online.The vote shall take place via online polls.
+1. Online votes must remain open until the 5% quorum for participation is reached so long as it does not conflict with the 5 month deadline. If quorum is not met before the appropriate deadline, the motion for the endorsement fails.
+
 
 If the chapter votes to make an endorsement, this means the chapter’s general membership is in agreement that the chapter shall:
 
@@ -260,3 +260,22 @@ If the chapter votes to make an endorsement, this means the chapter’s general 
 If a candidate or campaign is exposed for doing anything antithetical to DSA’s values, the steering committee is within its right to call a special meeting of the general membership to vote on retracting the endorsement.  Endorsement retractions must meet the same voting quorums listed above and be conducted either in general meetings or online.
 
 [^1]: An IE means we as a chapter would run our own campaign for the candidate or measure and have less restrictions on the amounts we can spend on the campaign, but could legally not coordinate with the main campaign and would require more intense accounting of our campaign expenses and donations to avoid legal complications.  A CC is a campaign where we are in direct contact with the main campaign and would be limited to approximately $5000 in donations per election cycle but require less legal oversight for campaign donations and expenses.
+
+## Sacramento DSA Blog ##
+The Sac DSA blog shall prioritize publishing the following types of articles:
+1. Op-Eds - Opinion articles by members about DSA debates that affect our chapter’s internal organizing or external campaigns, and public issues relevant to Sacramento.
+
+1. Steering Committee Statements - Statements made on behalf of the chapter in response to local and national emergencies.
+
+1. Political Education - Articles about theory in line with the Sac DSA mission statement and/or the history of socialist politics.
+ 
+Sac DSA’s blog is also open to citizen journalism, such as exposés on local politics or police corruption or interviews about campaigns or DSA history, SO LONG AS ALL JOURNALISTIC PIECES ARE DULY FACT CHECKED! Sac DSA as a chapter will not assume legal responsibility for members who use the blog to commit libel.
+
+Members should consult The Truth in Journalism Fact-Checking Guide if they have questions about how to approach fact-checking. 
+
+All articles must be in line with the chapter mission statement, with the understanding that interpretations of the mission statement might vary in op-ed pieces. Also, authors of op-eds shall make it clear through the language of their article that their position is not the official chapter position, but is the member’s interpretation of the issue and Sac DSA’s mission statement. Members are welcome and encouraged to submit rebuttals to opinion pieces.
+
+The Secretary and Communications Director shall serve as the chapter blog’s Co Editors-In-Chief, provided that they post drafts in the Steering Committee chat within 24 hours and shall wait 24 hours for potential Steering Committee objections before final drafts are posted. In the case where the Secretary and Comms Director disagree about approving a piece for publication, the decision for publication shall be put to a vote by the Steering Committee. Steering Committee members' votes should reflect on whether or not the piece is in line with the Sac DSA mission statement, not if they agree or disagree with the article.
+
+Articles must be written in good faith and with the intention of growing DSA or educating our members and/or the public. If it is related to an internal DSA issue or point of debate, the article shall take the tone of “how DSA can do better” and will prioritize using uplifting language while avoiding character attacks on other comrades and ad hominem fallacies.
+
