@@ -282,9 +282,9 @@ Example: [A People of Color’s History of DSA](https://sacdsa.org/blog/2019/201
 
 Sac DSA’s blog is also open to citizen journalism, such as exposés on local politics or police corruption or interviews about campaigns or DSA history, SO LONG AS ALL JOURNALISTIC PIECES ARE DULY FACT CHECKED! Sac DSA as a chapter will not assume legal responsibility for members who use the blog to commit libel.
 
-Members should consult The Truth in Journalism Fact-Checking Guide if they have questions about how to approach fact-checking. 
+Members should consult [The Truth in Journalism Fact-Checking Guide](https://thetijproject.ca/guide/reporter-guidelines/) if they have questions about how to approach fact-checking. 
 
-All articles must be in line with the chapter mission statement, with the understanding that interpretations of the mission statement might vary in op-ed pieces. Also, authors of op-eds shall make it clear through the language of their article that their position is not the official chapter position, but is the member’s interpretation of the issue and Sac DSA’s mission statement. Members are welcome and encouraged to submit rebuttals to opinion pieces.
+All articles must be in line with the [chapter mission statement](https://sacdsa.org/resources/mission-statement/), with the understanding that interpretations of the mission statement might vary in op-ed pieces. Also, authors of op-eds shall make it clear through the language of their article that their position is not the official chapter position, but is the member’s interpretation of the issue and Sac DSA’s mission statement. Members are welcome and encouraged to submit rebuttals to opinion pieces.
 
 The Secretary and Communications Director shall serve as the chapter blog’s Co Editors-In-Chief, provided that they post drafts in the Steering Committee chat within 24 hours and shall wait 24 hours for potential Steering Committee objections before final drafts are posted. In the case where the Secretary and Comms Director disagree about approving a piece for publication, the decision for publication shall be put to a vote by the Steering Committee. Steering Committee members' votes should reflect on whether or not the piece is in line with the Sac DSA mission statement, not if they agree or disagree with the article.
 
