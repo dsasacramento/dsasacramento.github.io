@@ -23,13 +23,15 @@ Our long term focus is to develop a comprehensive candidate recruitment and asse
 
 ### Healthcare Committee
 
-DSA is working with a coalition of local groups and the California Nurses
-Association to fight for single-payer healthcare. We are pushing to enact HR
-1384, the Medicare For All of 2019 Act, which would create a Medicare-for-All
-type system that covers everybody in the United States with no copays or
-deductibles. We have been knocking on doors, tabling at farmers’ markets,
-creating memes, holding town halls, meeting with legislators, and doing actions
-at their offices.
+At SacDSA’s Healthcare Committee, we know that access to quality healthcare can change lives - 
+and we’re committed to making that a reality. We’re striving to enact legislation which would
+create a health care system covering every person - with no copays, no deductibles and no one
+excluded. The Healthcare Committee is proud to collaborate with the California Nurses Association
+to fight for CalCare (California Guaranteed Health Care for All Act), and with National Nurses
+United to champion a Medicare for All - Style system across the United States. Our comrades are
+tabling at farmers’ markets, meeting with legislators, organizing actions at their offices,
+sponsoring town halls, phone and text banking, and knocking on doors to build grassroots support.
+Join us in the struggle for healthcare justice.
 
 ### International Committee
 
