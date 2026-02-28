@@ -21,7 +21,7 @@ Bylaws are the basic rules that define how an organization governs itself. For S
 
 #### National Harassment and Grievance Policy
 
-Democratic Socialists of America is committed to creating a space that is welcoming and inclusive to members of all genders, races, classes, and abilities. At our 2017 convention, we passed [Resolution #33](http://d3n8a8pro7vhmx.cloudfront.net/dsausa/mailings/1795/attachments/original/DSA_Harassment_Resolution.pdf?1511384152), which provides guidelines to ensure that everyone is able to organize without fear of harassment, abuse, or harm. The resolution also establishes a process to handle these types of charges between members.
+Democratic Socialists of America is committed to creating a space that is welcoming and inclusive to members of all genders, races, classes, and abilities. At our 2025 convention, we passed [Uniform Grievancy Policy](https://docs.google.com/document/u/3/d/e/2PACX-1vQDWES0fFuHwAeXvVuD3guK1wSeR9i_Xs5cRIqZ2Fv_ppKeXfyb2u7N_RLpjgPAtQ7alRk8UbKPkLdR/pub), which provides guidelines to ensure that everyone is able to organize without fear of harassment, abuse, or harm. The resolution also establishes a process to handle these types of charges between members.
 
 Learn about the [resources and policies](/resources/harassment-and-grievance-policy-and-resources) we have in place to ensure our chapter is welcoming and inclusive to members of all genders, races, classes, and abilities.
 
