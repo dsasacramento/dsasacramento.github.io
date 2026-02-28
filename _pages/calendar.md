@@ -10,4 +10,3 @@ permalink: /calendar/
 src="https://calendar.google.com/calendar/u/0/embed?src=dsasacramento@gmail.com&ctz=America/Los_Angeles"
 style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
-</div>
