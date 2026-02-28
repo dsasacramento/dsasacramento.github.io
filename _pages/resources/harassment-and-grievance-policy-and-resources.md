@@ -6,13 +6,13 @@ permalink: /resources/harassment-and-grievance-policy-and-resources/
 <style>ul {list-style: circle} </style>
 *Learn about the resources and policies we have in place to ensure our chapter is welcoming and inclusive to members of all genders, races, classes, and abilities.*
 
-At our 2017 convention, we passed [Resolution 33](https://www.dsausa.org/about-us/harassment-policy-resolution-33/), which provides guidelines to ensure that everyone is able to organize without fear of harassment, abuse, or harm. The resolution also establishes a process to handle these types of charges between members.
+At our 2025 convention, we passed [Uniform Grievance Policy]((https://docs.google.com/document/u/3/d/e/2PACX-1vQDWES0fFuHwAeXvVuD3guK1wSeR9i_Xs5cRIqZ2Fv_ppKeXfyb2u7N_RLpjgPAtQ7alRk8UbKPkLdR/pub)), which provides guidelines to ensure that everyone is able to organize without fear of harassment, abuse, or harm. The Uniform Grievancy Policy also establishes a process to handle these types of charges between members.
 
 **If you are experiencing harassment or abusive behavior from a member please report it here.**
 
 <a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfr_c0i1uxdzBEILDFxg0PRH_xjeLAnUYDa32pwb79vnQ9IKA/viewform">Report Harassment or Abusive Behavior</a>
 
-### What types of situations does our Harassment Policy, Resolution 33, cover?
+### What types of situations does our Harassment Policy, the Uniform Grievance Policy, cover?
 
 **The Harassment Policy addresses prohibited behavior such as:**
 
