@@ -71,7 +71,7 @@ relationship, not a material one based on hierarchy. We also believe it is
 important to empower DSA members and members of the local community to make
 meaningful systemic change (outside of existing systems).
 
-#### Trans Rights and Bodily Autonomy Committee
+#### Trans Rights and Bodily Autonomy Working Group
 
 TRBA committee merged with Mutual Aid Committee in July 2025.
 
