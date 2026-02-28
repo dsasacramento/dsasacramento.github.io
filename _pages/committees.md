@@ -71,6 +71,10 @@ relationship, not a material one based on hierarchy. We also believe it is
 important to empower DSA members and members of the local community to make
 meaningful systemic change (outside of existing systems).
 
+#### Trans Rights and Bodily Autonomy Committee
+
+TRBA committee merged with Mutual Aid Committee in July 2025.
+
 * Contact: mutualaid@sacdsa.org
 
 ### Racial Solidarity Committee
@@ -83,9 +87,5 @@ One of the defining features of socialism is the praxis, the meeting of theory
 and action. The Socialist Education Committee creates events and materials to
 aid our members in using the history and ideology of the socialist movement as
 tools in our day-to-day organizing.
-
-### Trans Rights and Bodily Autonomy Committee
-
-TRBA committee merged with Mutual Aid Committee in July 2025.
 
 
