@@ -19,3 +19,44 @@ By joining, you'll be enabling the continued growth of a socialist movement in t
 
 Additionally, you can contribute to our ongoing Mutual Aid efforts in the myriad of ways that we seek to address the lack of resources for so many, by becoming a contributing member to our <a class="btn btn-primary" href="https://www.patreon.com/SacDSAMutualAid"> Mutual Aid Patreon</a>
 
+#### **Check Out Other Great Local Orgs**
+
+<b>Mutual Aid</b>
+Broad Room
+CAFFE
+Community Fruit 916
+Community Shop Class
+Mutual Aid Sac
+Sacramento Food not Bombs
+Sacramento Punks with Lunch
+TAG Community Table
+The Reclamation Project @916
+
+<b>Healthcare</b>
+Harm Reduction Services
+MaskBloc916
+Mental Health First Sac
+
+<b>Environmental</b>
+Sunrise Movement Sac
+
+<b>Homelessness</b>
+Clap Sac LLC
+Sacramento Homeless Union
+
+<b>Housing</b>
+Community Land Trust
+
+<b>Immigration</b>
+NorCal Resist
+
+<b>Community Empowerment</b>
+Alchemist CDC
+APTP Sacramento
+CMB Neighbor Program
+Decarcerate Sacramento
+Social Justice Politicorps
+
+<b>Advocacy</b>
+Jewish Voices for Peace
+Palestinian Action League
