@@ -21,7 +21,7 @@ Additionally, you can contribute to our ongoing Mutual Aid efforts in the myriad
 
 #### **Check Out Other Great Local Orgs**
 
-<b>Mutual Aid</b>
+<b>Mutual Aid</b><br>
 Broad Room<br>
 CAFFE<br>
 Community Fruit 916<br>
@@ -32,31 +32,31 @@ Sacramento Punks with Lunch<br>
 TAG Community Table<br>
 The Reclamation Project @916<br>
 
-<b>Healthcare</b>
+<b>Healthcare</b><br>
 Harm Reduction Services<br>
 MaskBloc916<br>
 Mental Health First Sac<br>
 
-<b>Environmental</b>
+<b>Environmental</b><br>
 Sunrise Movement Sac<br>
 
-<b>Homelessness</b>
+<b>Homelessness</b><br>
 Clap Sac LLC<br>
 Sacramento Homeless Union<br>
 
-<b>Housing</b>
+<b>Housing</b><br>
 Community Land Trust<br>
 
-<b>Immigration</b>
+<b>Immigration</b><br>
 NorCal Resist<br>
 
-<b>Community Empowerment</b>
+<b>Community Empowerment</b><br>
 Alchemist CDC<br>
 APTP Sacramento<br>
 CMB Neighbor Program<br>
 Decarcerate Sacramento<br>
 Social Justice Politicorps<br>
 
-<b>Advocacy</b>
+<b>Advocacy</b><br>
 Jewish Voices for Peace<br>
 Palestinian Action League<br>
