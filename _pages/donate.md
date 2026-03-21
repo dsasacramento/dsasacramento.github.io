@@ -7,7 +7,7 @@ We need your financial support to keep building a socialist movement in the Capi
 
 *Sacramento DSA relies on donations to do its work, but donating isn't the same as joining. To join the Democratic Socialists of America, please sign up at <https://dsausa.org/join>*
 
-## Zelle (Preferred Donation Method)
+#### Zelle (Preferred Donation Method)
 * Zelle is our preferred donation method, since the provider takes $0 in fees, meaning 100% of your donation goes directly to the chapter!
 
 * To make a donation through Zelle:
@@ -24,7 +24,7 @@ saying…
 * * * » Please add ‘Donation’ as the Message to recipient
 * * * » If you would like for your payment to be recurring, please toggle on the ‘Repeating payment’ option
 
-## PayPal (Alternate Donation Method)
+#### PayPal (Alternate Donation Method)
 We understand that not all banks have a partnership with Zelle. For those still hoping to
 make a donation, you can make a donation through <a class="btn btn-primary" href="https://www.paypal.com/donate/?hosted_button_id=QF6HV579PL57L">Paypal</a>.
 
