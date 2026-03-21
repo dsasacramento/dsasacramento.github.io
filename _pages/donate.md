@@ -17,7 +17,7 @@ Zelle (Preferred Donation Method)
 * * * » Email: dsasacramento@gmail.com
 * * •If you’re making a donation to DSA Sac for the first time, you’ll get a message
 saying…
-* * * “Looks like you're sending money to Sacramento Democratic Socialists Of America, Sacramento, CA at dsasacramento@gmail.com for the first time. Why are you sending this payment?”
+* * * *“Looks like you're sending money to Sacramento Democratic Socialists Of America, Sacramento, CA at dsasacramento@gmail.com for the first time. Why are you sending this payment?”
 * * * » Please select “Paying bills or a known small business”
 * * •Make the Zelle payment!
 * * * » Please add ‘Donation’ as the Message to recipient
