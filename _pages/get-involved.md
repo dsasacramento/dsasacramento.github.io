@@ -17,6 +17,8 @@ If you want to vote at meetings, you'll need to officially join National DSA on 
 
 By joining, you'll be enabling the continued growth of a socialist movement in the Capital City. Whether it's strike support, canvassing, membership meetings, or educational events, your contributions make our organizing possible.
 
+#### Donate
+
 Additionally, we welcome donations to help us continue growing our people powered movement. 
 
 ## Zelle (Preferred Donation Method)
