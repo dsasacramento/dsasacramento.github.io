@@ -17,11 +17,11 @@ If you want to vote at meetings, you'll need to officially join National DSA on 
 
 By joining, you'll be enabling the continued growth of a socialist movement in the Capital City. Whether it's strike support, canvassing, membership meetings, or educational events, your contributions make our organizing possible.
 
-#### Donate
+## Donate
 
 Additionally, we welcome donations to help us continue growing our people powered movement. 
 
-## Zelle (Preferred Donation Method)
+#### Zelle (Preferred Donation Method)
 * Zelle is our preferred donation method, since the provider takes $0 in fees, meaning 100% of your donation goes directly to the chapter!
 
 * To make a donation through Zelle:
@@ -38,7 +38,7 @@ saying…
 * * * » Please add ‘Donation’ as the Message to recipient
 * * * » If you would like for your payment to be recurring, please toggle on the ‘Repeating payment’ option
 
-## PayPal (Alternate Donation Method)
+#### PayPal (Alternate Donation Method)
 We understand that not all banks have a partnership with Zelle. For those still hoping to
 make a donation, you can make a donation through <a class="btn btn-primary" href="https://www.paypal.com/donate/?hosted_button_id=QF6HV579PL57L">Paypal</a>.
 
