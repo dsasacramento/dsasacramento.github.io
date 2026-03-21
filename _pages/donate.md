@@ -25,6 +25,6 @@ saying…
 
 ## PayPal (Alternate Donation Method)
 We understand that not all banks have a partnership with Zelle. For those still hoping to
-make a donation, you can make a donation through<a class="btn btn-primary" href="(https://www.patreon.com/SacDSAMutualAid](https://www.paypal.com/donate/?hosted_button_id=QF6HV579PL57L)"> Paypal</a>.
+make a donation, you can make a donation through<a class="btn btn-primary" href="[https://www.paypal.com/donate/?hosted_button_id=QF6HV579PL57L]"> Paypal</a>.
 
-Additionally, you can contribute to our ongoing Mutual Aid efforts and the myriad of ways that we seek to address the lack of resources for so many, by becoming a contributing member to our <a class="btn btn-primary" href="(https://www.patreon.com/SacDSAMutualAid)"> Mutual Aid Patreon</a>
+Additionally, you can contribute to our ongoing Mutual Aid efforts and the myriad of ways that we seek to address the lack of resources for so many, by becoming a contributing member to our <a class="btn btn-primary" href="[https://www.patreon.com/SacDSAMutualAid]"> Mutual Aid Patreon</a>
