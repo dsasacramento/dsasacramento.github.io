@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sacramento DSA Condemns Donald Trump's Threats Against Irn"
+title: "Sacramento DSA Condemns Donald Trump's Threats Against Iran"
 permalink: /no-war-with-iran/
 tag: SacDSA, Sacramento DSA, iran, trump, threat
 short_description: "Donald Trump's threats against the people of Iran to destroy their civilization are wreckless beyond words and only serve to further destabilize the region in service of Israel's aims. None of this helps the people of America or the world. And all of it further pushes our country closer to being a global pariah."
